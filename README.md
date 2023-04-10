@@ -1,6 +1,6 @@
 # azure-practice
 
-<h3 style="color:SlateBlue;">Azure practice</h3>
+<p style="color:DodgerBlue;">Azure practice</p>
 <div>指導教師:蔡芸琤老師</div>
 <div>姓名:陳思岑</div>
 <div>系級:師大科技系二年級</div>
