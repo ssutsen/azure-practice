@@ -1,3 +1,4 @@
+import json
 import os
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
