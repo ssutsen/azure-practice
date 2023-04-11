@@ -1,0 +1,3165 @@
+{
+    "content": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549\nFORM 10-Q\n\u2612 QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the Quarterly Period Ended March 31, 2020\nOR\n\u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the Transition Period From\nto\nCommission File Number 001-37845\nMICROSOFT CORPORATION\nWASHINGTON\n(STATE OF INCORPORATION)\n91-1144442 (I.R.S. ID)\nONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399\n(425) 882-8080\nwww.microsoft.com/investor\nSecurities registered pursuant to Section 12(b) of the Act:\nTitle of each class\nTrading Symbol\nName of exchange on which registered\nCommon stock, $0.00000625 par value per share 2.125% Notes due 2021 3.125% Notes due 2028 2.625% Notes due 2033\nMSFT\nNASDAQ\nMSFT NASDAQ MSFT MSFT NASDAQ NASDAQ\nSecurities registered pursuant to Section 12(g) of the Act:\nNONE\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes \u2612 No \u2610\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (\u00a7232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes \u2612 No \u2610\nIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of \u201clarge accelerated filer,\u201d \u201caccelerated filer,\u201d \u201csmaller reporting company,\u201d and \u201cemerging growth company\u201d in Rule 12b-2 of the Exchange Act.\nLarge accelerated filer \u2612\nNon-accelerated filer \u2610\nAccelerated filer \u2610 Smaller reporting company \u2610\nEmerging growth company \u2610\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610\nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).\nYes \u2610 No \u2612\nIndicate the number of shares outstanding of each of the issuer\u2019s classes of common stock, as of the latest practicable date.\nClass Common Stock, $0.00000625 par value per share\nOutstanding as of April 24, 2020\n7,583,440,247 shares",
+    "styles": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "width": 8.5,
+            "height": 11.0,
+            "unit": "inch",
+            "lines": [
+                {
+                    "content": "UNITED STATES",
+                    "bounding_box": [
+                        {
+                            "x": 3.4915,
+                            "y": 0.6828
+                        },
+                        {
+                            "x": 5.0116,
+                            "y": 0.6828
+                        },
+                        {
+                            "x": 5.0116,
+                            "y": 0.8265
+                        },
+                        {
+                            "x": 3.4915,
+                            "y": 0.8265
+                        }
+                    ]
+                },
+                {
+                    "content": "SECURITIES AND EXCHANGE COMMISSION",
+                    "bounding_box": [
+                        {
+                            "x": 2.1937,
+                            "y": 0.9061
+                        },
+                        {
+                            "x": 6.297,
+                            "y": 0.9061
+                        },
+                        {
+                            "x": 6.297,
+                            "y": 1.0498
+                        },
+                        {
+                            "x": 2.1937,
+                            "y": 1.0498
+                        }
+                    ]
+                },
+                {
+                    "content": "Washington, D.C. 20549",
+                    "bounding_box": [
+                        {
+                            "x": 3.4629,
+                            "y": 1.1179
+                        },
+                        {
+                            "x": 5.031,
+                            "y": 1.1179
+                        },
+                        {
+                            "x": 5.031,
+                            "y": 1.2483
+                        },
+                        {
+                            "x": 3.4629,
+                            "y": 1.2483
+                        }
+                    ]
+                },
+                {
+                    "content": "FORM 10-Q",
+                    "bounding_box": [
+                        {
+                            "x": 3.7352,
+                            "y": 1.4211
+                        },
+                        {
+                            "x": 4.7769,
+                            "y": 1.4211
+                        },
+                        {
+                            "x": 4.7769,
+                            "y": 1.5763
+                        },
+                        {
+                            "x": 3.7352,
+                            "y": 1.5763
+                        }
+                    ]
+                },
+                {
+                    "content": "\u2612",
+                    "bounding_box": [
+                        {
+                            "x": 0.6694,
+                            "y": 1.7746
+                        },
+                        {
+                            "x": 0.7764,
+                            "y": 1.7746
+                        },
+                        {
+                            "x": 0.7764,
+                            "y": 1.8833
+                        },
+                        {
+                            "x": 0.6694,
+                            "y": 1.8833
+                        }
+                    ]
+                },
+                {
+                    "content": "QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF",
+                    "bounding_box": [
+                        {
+                            "x": 0.996,
+                            "y": 1.7804
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 1.7804
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 1.9108
+                        },
+                        {
+                            "x": 0.996,
+                            "y": 1.9108
+                        }
+                    ]
+                },
+                {
+                    "content": "1934",
+                    "bounding_box": [
+                        {
+                            "x": 1.001,
+                            "y": 1.9542
+                        },
+                        {
+                            "x": 1.2967,
+                            "y": 1.9542
+                        },
+                        {
+                            "x": 1.2967,
+                            "y": 2.0559
+                        },
+                        {
+                            "x": 1.001,
+                            "y": 2.0559
+                        }
+                    ]
+                },
+                {
+                    "content": "For the Quarterly Period Ended March 31, 2020",
+                    "bounding_box": [
+                        {
+                            "x": 0.9982,
+                            "y": 2.1626
+                        },
+                        {
+                            "x": 3.4543,
+                            "y": 2.1626
+                        },
+                        {
+                            "x": 3.4543,
+                            "y": 2.2665
+                        },
+                        {
+                            "x": 0.9982,
+                            "y": 2.2665
+                        }
+                    ]
+                },
+                {
+                    "content": "OR",
+                    "bounding_box": [
+                        {
+                            "x": 4.1471,
+                            "y": 2.2972
+                        },
+                        {
+                            "x": 4.3587,
+                            "y": 2.2972
+                        },
+                        {
+                            "x": 4.3587,
+                            "y": 2.4049
+                        },
+                        {
+                            "x": 4.1471,
+                            "y": 2.4049
+                        }
+                    ]
+                },
+                {
+                    "content": "\u2610",
+                    "bounding_box": [
+                        {
+                            "x": 0.6694,
+                            "y": 2.6955
+                        },
+                        {
+                            "x": 0.777,
+                            "y": 2.6955
+                        },
+                        {
+                            "x": 0.777,
+                            "y": 2.8042
+                        },
+                        {
+                            "x": 0.6694,
+                            "y": 2.8042
+                        }
+                    ]
+                },
+                {
+                    "content": "TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF",
+                    "bounding_box": [
+                        {
+                            "x": 0.9929,
+                            "y": 2.7029
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 2.7029
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 2.8333
+                        },
+                        {
+                            "x": 0.9929,
+                            "y": 2.8333
+                        }
+                    ]
+                },
+                {
+                    "content": "1934",
+                    "bounding_box": [
+                        {
+                            "x": 1.001,
+                            "y": 2.8775
+                        },
+                        {
+                            "x": 1.2967,
+                            "y": 2.8775
+                        },
+                        {
+                            "x": 1.2967,
+                            "y": 2.9792
+                        },
+                        {
+                            "x": 1.001,
+                            "y": 2.9792
+                        }
+                    ]
+                },
+                {
+                    "content": "For the Transition Period From",
+                    "bounding_box": [
+                        {
+                            "x": 0.9982,
+                            "y": 3.0873
+                        },
+                        {
+                            "x": 2.6112,
+                            "y": 3.0873
+                        },
+                        {
+                            "x": 2.6112,
+                            "y": 3.1679
+                        },
+                        {
+                            "x": 0.9982,
+                            "y": 3.1679
+                        }
+                    ]
+                },
+                {
+                    "content": "to",
+                    "bounding_box": [
+                        {
+                            "x": 3.1754,
+                            "y": 3.0889
+                        },
+                        {
+                            "x": 3.275,
+                            "y": 3.0889
+                        },
+                        {
+                            "x": 3.275,
+                            "y": 3.1679
+                        },
+                        {
+                            "x": 3.1754,
+                            "y": 3.1679
+                        }
+                    ]
+                },
+                {
+                    "content": "Commission File Number 001-37845",
+                    "bounding_box": [
+                        {
+                            "x": 3.2447,
+                            "y": 3.2697
+                        },
+                        {
+                            "x": 5.2571,
+                            "y": 3.2697
+                        },
+                        {
+                            "x": 5.2571,
+                            "y": 3.3573
+                        },
+                        {
+                            "x": 3.2447,
+                            "y": 3.3573
+                        }
+                    ]
+                },
+                {
+                    "content": "MICROSOFT CORPORATION",
+                    "bounding_box": [
+                        {
+                            "x": 2.5453,
+                            "y": 3.5647
+                        },
+                        {
+                            "x": 5.952,
+                            "y": 3.5647
+                        },
+                        {
+                            "x": 5.952,
+                            "y": 3.7497
+                        },
+                        {
+                            "x": 2.5453,
+                            "y": 3.7497
+                        }
+                    ]
+                },
+                {
+                    "content": "WASHINGTON",
+                    "bounding_box": [
+                        {
+                            "x": 2.0004,
+                            "y": 3.9639
+                        },
+                        {
+                            "x": 2.8111,
+                            "y": 3.9639
+                        },
+                        {
+                            "x": 2.8111,
+                            "y": 4.0514
+                        },
+                        {
+                            "x": 2.0004,
+                            "y": 4.0514
+                        }
+                    ]
+                },
+                {
+                    "content": "(STATE OF INCORPORATION)",
+                    "bounding_box": [
+                        {
+                            "x": 1.7151,
+                            "y": 4.1057
+                        },
+                        {
+                            "x": 3.1046,
+                            "y": 4.1057
+                        },
+                        {
+                            "x": 3.1046,
+                            "y": 4.197
+                        },
+                        {
+                            "x": 1.7151,
+                            "y": 4.197
+                        }
+                    ]
+                },
+                {
+                    "content": "91-1144442",
+                    "bounding_box": [
+                        {
+                            "x": 5.7788,
+                            "y": 3.9649
+                        },
+                        {
+                            "x": 6.3997,
+                            "y": 3.9649
+                        },
+                        {
+                            "x": 6.3997,
+                            "y": 4.0514
+                        },
+                        {
+                            "x": 5.7788,
+                            "y": 4.0514
+                        }
+                    ]
+                },
+                {
+                    "content": "(I.R.S. ID)",
+                    "bounding_box": [
+                        {
+                            "x": 5.8792,
+                            "y": 4.1057
+                        },
+                        {
+                            "x": 6.3016,
+                            "y": 4.1057
+                        },
+                        {
+                            "x": 6.3016,
+                            "y": 4.197
+                        },
+                        {
+                            "x": 5.8792,
+                            "y": 4.197
+                        }
+                    ]
+                },
+                {
+                    "content": "ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399",
+                    "bounding_box": [
+                        {
+                            "x": 2.5939,
+                            "y": 4.2851
+                        },
+                        {
+                            "x": 5.9056,
+                            "y": 4.2851
+                        },
+                        {
+                            "x": 5.9056,
+                            "y": 4.3835
+                        },
+                        {
+                            "x": 2.5939,
+                            "y": 4.3835
+                        }
+                    ]
+                },
+                {
+                    "content": "(425) 882-8080",
+                    "bounding_box": [
+                        {
+                            "x": 3.8758,
+                            "y": 4.4135
+                        },
+                        {
+                            "x": 4.6237,
+                            "y": 4.4135
+                        },
+                        {
+                            "x": 4.6237,
+                            "y": 4.5173
+                        },
+                        {
+                            "x": 3.8758,
+                            "y": 4.5173
+                        }
+                    ]
+                },
+                {
+                    "content": "www.microsoft.com/investor",
+                    "bounding_box": [
+                        {
+                            "x": 3.4906,
+                            "y": 4.541
+                        },
+                        {
+                            "x": 5.0096,
+                            "y": 4.541
+                        },
+                        {
+                            "x": 5.0096,
+                            "y": 4.6229
+                        },
+                        {
+                            "x": 3.4906,
+                            "y": 4.6229
+                        }
+                    ]
+                },
+                {
+                    "content": "Securities registered pursuant to Section 12(b) of the Act:",
+                    "bounding_box": [
+                        {
+                            "x": 0.6345,
+                            "y": 4.7405
+                        },
+                        {
+                            "x": 3.6169,
+                            "y": 4.7405
+                        },
+                        {
+                            "x": 3.6169,
+                            "y": 4.8514
+                        },
+                        {
+                            "x": 0.6345,
+                            "y": 4.8514
+                        }
+                    ]
+                },
+                {
+                    "content": "Title of each class",
+                    "bounding_box": [
+                        {
+                            "x": 0.6319,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 1.5695,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 1.5695,
+                            "y": 5.0563
+                        },
+                        {
+                            "x": 0.6319,
+                            "y": 5.0563
+                        }
+                    ]
+                },
+                {
+                    "content": "Trading Symbol",
+                    "bounding_box": [
+                        {
+                            "x": 4.3444,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 5.1604,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 5.1604,
+                            "y": 5.0797
+                        },
+                        {
+                            "x": 4.3444,
+                            "y": 5.0797
+                        }
+                    ]
+                },
+                {
+                    "content": "Name of exchange on which registered",
+                    "bounding_box": [
+                        {
+                            "x": 5.5923,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 7.6228,
+                            "y": 4.9689
+                        },
+                        {
+                            "x": 7.6228,
+                            "y": 5.0797
+                        },
+                        {
+                            "x": 5.5923,
+                            "y": 5.0797
+                        }
+                    ]
+                },
+                {
+                    "content": "Common stock, $0.00000625 par value per share",
+                    "bounding_box": [
+                        {
+                            "x": 0.6347,
+                            "y": 5.1719
+                        },
+                        {
+                            "x": 3.3476,
+                            "y": 5.1719
+                        },
+                        {
+                            "x": 3.3476,
+                            "y": 5.2865
+                        },
+                        {
+                            "x": 0.6347,
+                            "y": 5.2865
+                        }
+                    ]
+                },
+                {
+                    "content": "2.125% Notes due 2021",
+                    "bounding_box": [
+                        {
+                            "x": 0.6321,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 1.9098,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 1.9098,
+                            "y": 5.4241
+                        },
+                        {
+                            "x": 0.6321,
+                            "y": 5.4241
+                        }
+                    ]
+                },
+                {
+                    "content": "3.125% Notes due 2028",
+                    "bounding_box": [
+                        {
+                            "x": 0.6337,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 1.9238,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 1.9238,
+                            "y": 5.5825
+                        },
+                        {
+                            "x": 0.6337,
+                            "y": 5.5825
+                        }
+                    ]
+                },
+                {
+                    "content": "2.625% Notes due 2033",
+                    "bounding_box": [
+                        {
+                            "x": 0.6321,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 1.9238,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 1.9238,
+                            "y": 5.74
+                        },
+                        {
+                            "x": 0.6321,
+                            "y": 5.74
+                        }
+                    ]
+                },
+                {
+                    "content": "MSFT",
+                    "bounding_box": [
+                        {
+                            "x": 4.6026,
+                            "y": 5.1772
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.1772
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.2648
+                        },
+                        {
+                            "x": 4.6026,
+                            "y": 5.2648
+                        }
+                    ]
+                },
+                {
+                    "content": "NASDAQ",
+                    "bounding_box": [
+                        {
+                            "x": 6.3604,
+                            "y": 5.1772
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.1772
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.2717
+                        },
+                        {
+                            "x": 6.3604,
+                            "y": 5.2717
+                        }
+                    ]
+                },
+                {
+                    "content": "MSFT",
+                    "bounding_box": [
+                        {
+                            "x": 4.6026,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.4223
+                        },
+                        {
+                            "x": 4.6026,
+                            "y": 5.4223
+                        }
+                    ]
+                },
+                {
+                    "content": "NASDAQ",
+                    "bounding_box": [
+                        {
+                            "x": 6.3604,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.3347
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.4292
+                        },
+                        {
+                            "x": 6.3604,
+                            "y": 5.4292
+                        }
+                    ]
+                },
+                {
+                    "content": "MSFT",
+                    "bounding_box": [
+                        {
+                            "x": 4.6026,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.5806
+                        },
+                        {
+                            "x": 4.6026,
+                            "y": 5.5806
+                        }
+                    ]
+                },
+                {
+                    "content": "MSFT",
+                    "bounding_box": [
+                        {
+                            "x": 4.6026,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 4.9132,
+                            "y": 5.7381
+                        },
+                        {
+                            "x": 4.6026,
+                            "y": 5.7381
+                        }
+                    ]
+                },
+                {
+                    "content": "NASDAQ",
+                    "bounding_box": [
+                        {
+                            "x": 6.3604,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.493
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.5876
+                        },
+                        {
+                            "x": 6.3604,
+                            "y": 5.5876
+                        }
+                    ]
+                },
+                {
+                    "content": "NASDAQ",
+                    "bounding_box": [
+                        {
+                            "x": 6.3604,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.6505
+                        },
+                        {
+                            "x": 6.8629,
+                            "y": 5.7451
+                        },
+                        {
+                            "x": 6.3604,
+                            "y": 5.7451
+                        }
+                    ]
+                },
+                {
+                    "content": "Securities registered pursuant to Section 12(g) of the Act:",
+                    "bounding_box": [
+                        {
+                            "x": 0.6345,
+                            "y": 5.8505
+                        },
+                        {
+                            "x": 3.6169,
+                            "y": 5.8505
+                        },
+                        {
+                            "x": 3.6169,
+                            "y": 5.9614
+                        },
+                        {
+                            "x": 0.6345,
+                            "y": 5.9614
+                        }
+                    ]
+                },
+                {
+                    "content": "NONE",
+                    "bounding_box": [
+                        {
+                            "x": 0.6379,
+                            "y": 6.0789
+                        },
+                        {
+                            "x": 0.9646,
+                            "y": 6.0789
+                        },
+                        {
+                            "x": 0.9646,
+                            "y": 6.1663
+                        },
+                        {
+                            "x": 0.6379,
+                            "y": 6.1663
+                        }
+                    ]
+                },
+                {
+                    "content": "Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange",
+                    "bounding_box": [
+                        {
+                            "x": 0.661,
+                            "y": 6.2705
+                        },
+                        {
+                            "x": 7.8456,
+                            "y": 6.2705
+                        },
+                        {
+                            "x": 7.8456,
+                            "y": 6.3814
+                        },
+                        {
+                            "x": 0.661,
+                            "y": 6.3814
+                        }
+                    ]
+                },
+                {
+                    "content": "Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has",
+                    "bounding_box": [
+                        {
+                            "x": 0.65,
+                            "y": 6.4064
+                        },
+                        {
+                            "x": 7.8445,
+                            "y": 6.4064
+                        },
+                        {
+                            "x": 7.8445,
+                            "y": 6.5172
+                        },
+                        {
+                            "x": 0.65,
+                            "y": 6.5172
+                        }
+                    ]
+                },
+                {
+                    "content": "been subject to such filing requirements for the past 90 days.",
+                    "bounding_box": [
+                        {
+                            "x": 0.6578,
+                            "y": 6.5497
+                        },
+                        {
+                            "x": 3.8221,
+                            "y": 6.5497
+                        },
+                        {
+                            "x": 3.8221,
+                            "y": 6.6605
+                        },
+                        {
+                            "x": 0.6578,
+                            "y": 6.6605
+                        }
+                    ]
+                },
+                {
+                    "content": "Yes \u2612",
+                    "bounding_box": [
+                        {
+                            "x": 3.9638,
+                            "y": 6.549
+                        },
+                        {
+                            "x": 4.3353,
+                            "y": 6.549
+                        },
+                        {
+                            "x": 4.3353,
+                            "y": 6.6371
+                        },
+                        {
+                            "x": 3.9638,
+                            "y": 6.6371
+                        }
+                    ]
+                },
+                {
+                    "content": "No \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 4.4902,
+                            "y": 6.5477
+                        },
+                        {
+                            "x": 4.8008,
+                            "y": 6.5477
+                        },
+                        {
+                            "x": 4.8008,
+                            "y": 6.6371
+                        },
+                        {
+                            "x": 4.4902,
+                            "y": 6.6371
+                        }
+                    ]
+                },
+                {
+                    "content": "Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule",
+                    "bounding_box": [
+                        {
+                            "x": 0.6611,
+                            "y": 6.7519
+                        },
+                        {
+                            "x": 7.845,
+                            "y": 6.7519
+                        },
+                        {
+                            "x": 7.845,
+                            "y": 6.8614
+                        },
+                        {
+                            "x": 0.6611,
+                            "y": 6.8614
+                        }
+                    ]
+                },
+                {
+                    "content": "405 of Regulation S-T (\u00a7232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to",
+                    "bounding_box": [
+                        {
+                            "x": 0.6517,
+                            "y": 6.8863
+                        },
+                        {
+                            "x": 7.8459,
+                            "y": 6.8863
+                        },
+                        {
+                            "x": 7.8459,
+                            "y": 6.9972
+                        },
+                        {
+                            "x": 0.6517,
+                            "y": 6.9972
+                        }
+                    ]
+                },
+                {
+                    "content": "submit such files).",
+                    "bounding_box": [
+                        {
+                            "x": 0.6538,
+                            "y": 7.0296
+                        },
+                        {
+                            "x": 1.5594,
+                            "y": 7.0296
+                        },
+                        {
+                            "x": 1.5594,
+                            "y": 7.1405
+                        },
+                        {
+                            "x": 0.6538,
+                            "y": 7.1405
+                        }
+                    ]
+                },
+                {
+                    "content": "Yes \u2612",
+                    "bounding_box": [
+                        {
+                            "x": 1.6938,
+                            "y": 7.0289
+                        },
+                        {
+                            "x": 2.0577,
+                            "y": 7.0289
+                        },
+                        {
+                            "x": 2.0577,
+                            "y": 7.1171
+                        },
+                        {
+                            "x": 1.6938,
+                            "y": 7.1171
+                        }
+                    ]
+                },
+                {
+                    "content": "No \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 2.2066,
+                            "y": 7.0276
+                        },
+                        {
+                            "x": 2.5115,
+                            "y": 7.0276
+                        },
+                        {
+                            "x": 2.5115,
+                            "y": 7.1171
+                        },
+                        {
+                            "x": 2.2066,
+                            "y": 7.1171
+                        }
+                    ]
+                },
+                {
+                    "content": "Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting",
+                    "bounding_box": [
+                        {
+                            "x": 0.6611,
+                            "y": 7.2304
+                        },
+                        {
+                            "x": 7.8417,
+                            "y": 7.2304
+                        },
+                        {
+                            "x": 7.8417,
+                            "y": 7.3413
+                        },
+                        {
+                            "x": 0.6611,
+                            "y": 7.3413
+                        }
+                    ]
+                },
+                {
+                    "content": "company, or an emerging growth company. See the definitions of \u201clarge accelerated filer,\u201d \u201caccelerated filer,\u201d \u201csmaller reporting company,\u201d",
+                    "bounding_box": [
+                        {
+                            "x": 0.6547,
+                            "y": 7.3663
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 7.3663
+                        },
+                        {
+                            "x": 7.8449,
+                            "y": 7.4772
+                        },
+                        {
+                            "x": 0.6547,
+                            "y": 7.4772
+                        }
+                    ]
+                },
+                {
+                    "content": "and \u201cemerging growth company\u201d in Rule 12b-2 of the Exchange Act.",
+                    "bounding_box": [
+                        {
+                            "x": 0.6543,
+                            "y": 7.5021
+                        },
+                        {
+                            "x": 4.1966,
+                            "y": 7.5021
+                        },
+                        {
+                            "x": 4.1966,
+                            "y": 7.613
+                        },
+                        {
+                            "x": 0.6543,
+                            "y": 7.613
+                        }
+                    ]
+                },
+                {
+                    "content": "Large accelerated filer \u2612",
+                    "bounding_box": [
+                        {
+                            "x": 0.6586,
+                            "y": 7.709
+                        },
+                        {
+                            "x": 1.9534,
+                            "y": 7.709
+                        },
+                        {
+                            "x": 1.9534,
+                            "y": 7.8206
+                        },
+                        {
+                            "x": 0.6586,
+                            "y": 7.8206
+                        }
+                    ]
+                },
+                {
+                    "content": "Non-accelerated filer \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 0.659,
+                            "y": 7.8827
+                        },
+                        {
+                            "x": 1.8756,
+                            "y": 7.8827
+                        },
+                        {
+                            "x": 1.8756,
+                            "y": 7.9721
+                        },
+                        {
+                            "x": 0.659,
+                            "y": 7.9721
+                        }
+                    ]
+                },
+                {
+                    "content": "Accelerated filer \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 5.3358,
+                            "y": 7.7077
+                        },
+                        {
+                            "x": 6.3181,
+                            "y": 7.7077
+                        },
+                        {
+                            "x": 6.3181,
+                            "y": 7.7971
+                        },
+                        {
+                            "x": 5.3358,
+                            "y": 7.7971
+                        }
+                    ]
+                },
+                {
+                    "content": "Smaller reporting company \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 5.3412,
+                            "y": 7.8827
+                        },
+                        {
+                            "x": 6.8831,
+                            "y": 7.8827
+                        },
+                        {
+                            "x": 6.8831,
+                            "y": 7.9956
+                        },
+                        {
+                            "x": 5.3412,
+                            "y": 7.9956
+                        }
+                    ]
+                },
+                {
+                    "content": "Emerging growth company \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 5.3452,
+                            "y": 8.0585
+                        },
+                        {
+                            "x": 6.8764,
+                            "y": 8.0585
+                        },
+                        {
+                            "x": 6.8764,
+                            "y": 8.1714
+                        },
+                        {
+                            "x": 5.3452,
+                            "y": 8.1714
+                        }
+                    ]
+                },
+                {
+                    "content": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying",
+                    "bounding_box": [
+                        {
+                            "x": 0.661,
+                            "y": 8.2614
+                        },
+                        {
+                            "x": 7.842,
+                            "y": 8.2614
+                        },
+                        {
+                            "x": 7.842,
+                            "y": 8.3722
+                        },
+                        {
+                            "x": 0.661,
+                            "y": 8.3722
+                        }
+                    ]
+                },
+                {
+                    "content": "with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 0.6504,
+                            "y": 8.4139
+                        },
+                        {
+                            "x": 6.6275,
+                            "y": 8.4139
+                        },
+                        {
+                            "x": 6.6275,
+                            "y": 8.5248
+                        },
+                        {
+                            "x": 0.6504,
+                            "y": 8.5248
+                        }
+                    ]
+                },
+                {
+                    "content": "Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).",
+                    "bounding_box": [
+                        {
+                            "x": 0.6609,
+                            "y": 8.6172
+                        },
+                        {
+                            "x": 6.3833,
+                            "y": 8.6172
+                        },
+                        {
+                            "x": 6.3833,
+                            "y": 8.7281
+                        },
+                        {
+                            "x": 0.6609,
+                            "y": 8.7281
+                        }
+                    ]
+                },
+                {
+                    "content": "Yes \u2610",
+                    "bounding_box": [
+                        {
+                            "x": 6.5188,
+                            "y": 8.6152
+                        },
+                        {
+                            "x": 6.8824,
+                            "y": 8.6152
+                        },
+                        {
+                            "x": 6.8824,
+                            "y": 8.7046
+                        },
+                        {
+                            "x": 6.5188,
+                            "y": 8.7046
+                        }
+                    ]
+                },
+                {
+                    "content": "No \u2612",
+                    "bounding_box": [
+                        {
+                            "x": 7.0307,
+                            "y": 8.6165
+                        },
+                        {
+                            "x": 7.3351,
+                            "y": 8.6165
+                        },
+                        {
+                            "x": 7.3351,
+                            "y": 8.7046
+                        },
+                        {
+                            "x": 7.0307,
+                            "y": 8.7046
+                        }
+                    ]
+                },
+                {
+                    "content": "Indicate the number of shares outstanding of each of the issuer\u2019s classes of common stock, as of the latest practicable date.",
+                    "bounding_box": [
+                        {
+                            "x": 0.6611,
+                            "y": 8.818
+                        },
+                        {
+                            "x": 6.9374,
+                            "y": 8.818
+                        },
+                        {
+                            "x": 6.9374,
+                            "y": 8.9289
+                        },
+                        {
+                            "x": 0.6611,
+                            "y": 8.9289
+                        }
+                    ]
+                },
+                {
+                    "content": "Class",
+                    "bounding_box": [
+                        {
+                            "x": 0.6549,
+                            "y": 9.0975
+                        },
+                        {
+                            "x": 0.9237,
+                            "y": 9.0975
+                        },
+                        {
+                            "x": 0.9237,
+                            "y": 9.1745
+                        },
+                        {
+                            "x": 0.6549,
+                            "y": 9.1745
+                        }
+                    ]
+                },
+                {
+                    "content": "Common Stock, $0.00000625 par value per share",
+                    "bounding_box": [
+                        {
+                            "x": 0.6559,
+                            "y": 9.3141
+                        },
+                        {
+                            "x": 3.2571,
+                            "y": 9.3141
+                        },
+                        {
+                            "x": 3.2571,
+                            "y": 9.4301
+                        },
+                        {
+                            "x": 0.6559,
+                            "y": 9.4301
+                        }
+                    ]
+                },
+                {
+                    "content": "Outstanding as of April 24, 2020",
+                    "bounding_box": [
+                        {
+                            "x": 6.1303,
+                            "y": 9.105
+                        },
+                        {
+                            "x": 7.707,
+                            "y": 9.105
+                        },
+                        {
+                            "x": 7.707,
+                            "y": 9.2026
+                        },
+                        {
+                            "x": 6.1303,
+                            "y": 9.2026
+                        }
+                    ]
+                },
+                {
+                    "content": "7,583,440,247 shares",
+                    "bounding_box": [
+                        {
+                            "x": 6.5747,
+                            "y": 9.3458
+                        },
+                        {
+                            "x": 7.7069,
+                            "y": 9.3458
+                        },
+                        {
+                            "x": 7.7069,
+                            "y": 9.4475
+                        },
+                        {
+                            "x": 6.5747,
+                            "y": 9.4475
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "UNITED",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "STATES",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "SECURITIES",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "AND",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "EXCHANGE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "COMMISSION",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Washington,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "D.C.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "20549",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "FORM",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "10-Q",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2612",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "QUARTERLY",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "REPORT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "PURSUANT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "TO",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "SECTION",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "13",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OR",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "15(d)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OF",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "THE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "SECURITIES",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "EXCHANGE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "ACT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OF",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "1934",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "For",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Quarterly",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Period",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Ended",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "March",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "31,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2020",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OR",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "TRANSITION",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "REPORT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "PURSUANT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "TO",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "SECTION",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "13",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OR",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "15(d)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OF",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "THE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "SECURITIES",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "EXCHANGE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "ACT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OF",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "1934",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "For",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Transition",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Period",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "From",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Commission",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "File",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Number",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "001-37845",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MICROSOFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "CORPORATION",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "WASHINGTON",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(STATE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "OF",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "INCORPORATION)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "91-1144442",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(I.R.S.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "ID)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "ONE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MICROSOFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "WAY,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "REDMOND,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "WASHINGTON",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "98052-6399",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(425)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "882-8080",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "www.microsoft.com/investor",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Securities",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registered",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "pursuant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Section",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12(b)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act:",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Title",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "each",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "class",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Trading",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Symbol",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Name",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "exchange",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "on",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "which",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registered",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Common",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "stock,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "$0.00000625",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "par",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "value",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "per",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "share",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2.125%",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Notes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "due",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2021",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "3.125%",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Notes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "due",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2028",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2.625%",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Notes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "due",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2033",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MSFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "NASDAQ",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MSFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "NASDAQ",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MSFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "MSFT",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "NASDAQ",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "NASDAQ",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Securities",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registered",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "pursuant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Section",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12(g)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act:",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "NONE",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "check",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "mark",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "whether",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(1)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "has",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filed",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "all",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "reports",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "required",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "be",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filed",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Section",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "13",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "or",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "15(d)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Securities",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Exchange",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "1934",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "during",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "preceding",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "months",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(or",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "for",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "such",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "shorter",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "period",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "that",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "was",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "required",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "file",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "such",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "reports),",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "and",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(2)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "has",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "been",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "subject",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "such",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filing",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "requirements",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "for",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "past",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "90",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "days.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Yes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2612",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "No",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "check",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "mark",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "whether",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "has",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "submitted",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "electronically",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "every",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Interactive",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Data",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "File",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "required",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "be",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "submitted",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "pursuant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Rule",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "405",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Regulation",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "S-T",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(\u00a7232.405",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "this",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "chapter)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "during",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "preceding",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "months",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(or",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "for",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "such",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "shorter",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "period",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "that",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "was",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "required",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "submit",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "such",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "files).",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Yes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2612",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "No",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "check",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "mark",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "whether",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "is",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "a",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "large",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "an",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "a",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "non-accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "a",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "smaller",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "reporting",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "or",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "an",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "emerging",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "growth",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "See",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "definitions",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u201clarge",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer,\u201d",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u201caccelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer,\u201d",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u201csmaller",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "reporting",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company,\u201d",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "and",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u201cemerging",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "growth",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company\u201d",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "in",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Rule",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12b-2",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Exchange",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Large",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2612",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Non-accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Accelerated",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "filer",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Smaller",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "reporting",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Emerging",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "growth",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "If",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "an",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "emerging",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "growth",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "check",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "mark",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "if",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "has",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "elected",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "not",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "use",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "extended",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "transition",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "period",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "for",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "complying",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "with",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "any",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "new",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "or",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "revised",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "financial",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "accounting",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "standards",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "provided",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "pursuant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "to",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Section",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "13(a)",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Exchange",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "by",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "check",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "mark",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "whether",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "registrant",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "is",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "a",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "shell",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "company",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "(as",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "defined",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "in",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Rule",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "12b-2",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Exchange",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Act).",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Yes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2610",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "No",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "\u2612",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Indicate",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "number",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "shares",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "outstanding",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "each",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "issuer\u2019s",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "classes",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "common",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "stock,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "as",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "the",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "latest",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "practicable",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "date.",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Class",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Common",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Stock,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "$0.00000625",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "par",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "value",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "per",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "share",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "Outstanding",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "as",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "of",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "April",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "24,",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "2020",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "7,583,440,247",
+                    "confidence": 1.0
+                },
+                {
+                    "content": "shares",
+                    "confidence": 1.0
+                }
+            ]
+        }
+    ]
+}

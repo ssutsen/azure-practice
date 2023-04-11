@@ -279,8 +279,7 @@ def analyze_invoice():
                 )
             )
 
-    with open("output4.json", "w") as f:
-        json.dump(invoice, f, indent=4)
+
 
 if __name__ == "__main__":
     analyze_invoice()
