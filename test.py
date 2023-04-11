@@ -16,8 +16,7 @@ def format_polygon(polygon):
 
 def analyze_read():
     # sample form document
-    formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E9%9B%99%E4%B8%BB%E4%BF%AE%E6%87%89%E4%BF%AE%E5%AD%B8%E5%88%86%E8%A1%A8.pdf"
-
+    formUrl = "https://obs.line-scdn.net/0hxAsQFKp3J25OKDFTtNRYOXd-JAF9RDRtKh52bQ1GeVliHDBvdB47WG0tcQoxS2AwIBtsAWpteAtrHmBseh0/w644"
     document_analysis_client = DocumentAnalysisClient(
         endpoint=endpoint, credential=AzureKeyCredential(key)
     )
