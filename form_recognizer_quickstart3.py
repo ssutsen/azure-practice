@@ -1,5 +1,6 @@
 #發票模型
 # import libraries
+import json
 import os
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
@@ -277,6 +278,9 @@ def analyze_invoice():
                     remittance_address_recipient.confidence,
                 )
             )
+
+    with open("output4.json", "w") as f:
+        json.dump(invoice, f, indent=4)
 
 if __name__ == "__main__":
     analyze_invoice()
