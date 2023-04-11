@@ -1,3 +1,4 @@
+#隨便抓網路上的圖片來讀取
 import json
 import os
 from azure.ai.formrecognizer import DocumentAnalysisClient
@@ -16,7 +17,9 @@ def format_polygon(polygon):
 
 def analyze_read():
     # sample form document
-    formUrl = "https://obs.line-scdn.net/0hxAsQFKp3J25OKDFTtNRYOXd-JAF9RDRtKh52bQ1GeVliHDBvdB47WG0tcQoxS2AwIBtsAWpteAtrHmBseh0/w644"
+    formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E6%AA%94%E6%A1%88/t.docx?raw=true"
+    #(Op3)formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E6%AA%94%E6%A1%88/Instruction00_Onlinecourse.pdf?raw=true"
+    #(Op2)formUrl = "https://obs.line-scdn.net/0hxAsQFKp3J25OKDFTtNRYOXd-JAF9RDRtKh52bQ1GeVliHDBvdB47WG0tcQoxS2AwIBtsAWpteAtrHmBseh0/w644"
     document_analysis_client = DocumentAnalysisClient(
         endpoint=endpoint, credential=AzureKeyCredential(key)
     )
@@ -58,7 +61,7 @@ def analyze_read():
     }
 
     # Write the dictionary to a JSON file
-    with open("output2.json", "w") as f:
+    with open("output4.json", "w") as f:
         json.dump(output, f, indent=4)
 
 if __name__ == "__main__":
