@@ -15,8 +15,7 @@ def format_polygon(polygon):
 
 def analyze_layout():
     # sample form document
-    #(2page)formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E6%AA%94%E6%A1%88/syllabus_life_2023a.pdf?raw=true"
-    #formUrl = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/sample-layout.pdf"
+    formUrl = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/sample-layout.pdf"
 
     document_analysis_client = DocumentAnalysisClient(
         endpoint=endpoint, credential=AzureKeyCredential(key)
