@@ -1,4604 +1,767 @@
 {
-    "content": "While healthcare is still in the early stages of its Al journey, we are seeing pharmaceutical and other life sciences organizations making major investments in Al and related technologies.\" TOM LAWRY | National Director for Al, Health and Life Sciences | Microsoft\nAs pharmaceutical and other life sciences organizations invest in and deploy advanced technologies, they are beginning to see benefits in diverse areas across their organizations. Companies are looking to incorporate automation and continuing smart factory investments to reduce costs in drug discovery, research and development, and manufacturing and supply chain management. Many life sciences organizations are also choosing to stay with more virtual approaches in the \"new normal\" - particularly in clinical trials and sales and marketing areas.\nEnhancing the patient and provider experience\nClinical trial sponsors are continually seeking to make clinical trials faster and to improve the experience for patients and physicians. The COVID-19 pandemic has accelerated the adoption of decentralized clinical trials, with an increase in trial activities conducted remotely and in participants' homes. In a Mckinsey survey1 up to 98 percent of patients reported satisfaction with telemedicine. In the same report, 72 percent of physicians surveyed reported similar or better experiences with remote engagement compared with in-person visits.\nThe shift of trial activities closer to patients has been enabled by a myriad of evolving technologies and services (e.g., electronic consent, telehealth and remote patient monitoring). The aim to use technology to improve the patient experience and convenience has also broadened trial access to reach a broader, more diverse patient population.\n\"It's an interesting and exciting time right now,\" said Keren Priyadarshini, Regional Business Lead - Asia, Worldwide Health, Microsoft. \"It used to be that physicians were key. Now, suddenly, patients are feeling empowered by technology. Pharmaceutical companies and other life sciences companies are realizing they have to pay attention to the patient experience in addition to the physician experience.\"\nEnhanced patient experiences can be delivered in many different ways. One example of a life sciences product that leverages the intelligent cloud to directly affect the patient experience is the Tandem\u00ae Diabetes Care insulin pump. The Tandem\u00ae t:slim X2 insulin pump with Basal-IQ technology enables patients with Type 1 diabetes to predict and prevent the low levels of blood sugar that cause hypoglycemia.2 The algorithm-driven, software- updatable pump improves the patient experience by automating chronic disease management and eliminating the need for constant finger pricks to check glucose levels.\nTandem was able to create and deploy this innovation by leveraging the Al and machine learning capabilities of the intelligent cloud. As Al and other technologies continue to advance, potential use cases will multiply. \"Speed to value is going to continue to accelerate,\" said Lawry.\nIn addition to enhancing the patient experience, pharmaceutical and other life sciences companies can leverage advanced technologies to improve relationships with providers. For example, COVID-19 is driving changes in the way companies interact with clinicians. Prior to COVID-19, 75 percent of physicians preferred in-person sales visits from medtech reps; likewise, 77 percent of physicians preferred in- person sales visits from pharma reps.3\nSince the advent of COVID-19, however, physician preferences are moving toward virtual visits. Only 53 percent of physicians now express a preference for in-person visits from medtech reps and only 40 percent prefer in-person visits from pharma reps. That puts the onus on pharmaceutical and life sciences organizations to deliver valuable and engaging virtual visits to providers.\nOne way to do that is to leverage text analytics capabilities to enhance the provider information stored in the organization's customer relationship management (CRM) system. For example, a rep setting up a visit with 'Dr. X' could run text analytics on publicly available resources on the web to identify on which specific topics Dr. X has been writing about and commenting. \"All kinds of publicly available information can\nAll kinds of publicly available information can be mined with text analytics technology,\nwhich can be used to arm the\nsales rep with relevant information even before he or she meets the doctor. It's a totally different, digital game now.\"\nKEREN PRIYADARSHINI | Regional Business Lead - Asia, Worldwide Health | Microsoft\nEMBRACING DIGITAL TRANSFORMATION IN LIFE SCIENCES ORGANIZATIONS\n2",
     "styles": [],
     "pages": [
         {
             "page_number": 1,
-            "width": 915.0,
-            "height": 1190.0,
-            "unit": "pixel",
+            "width": 8.2778,
+            "height": 11.6944,
+            "unit": "inch",
             "lines": [
                 {
-                    "content": "While healthcare is still in the early stages of its Al journey, we",
+                    "content": "新竹縣私立慈恩養護中心",
                     "bounding_box": [
                         {
-                            "x": 257.0,
-                            "y": 54.0
+                            "x": 2.7726,
+                            "y": 1.0297
                         },
                         {
-                            "x": 817.0,
-                            "y": 56.0
+                            "x": 5.4934,
+                            "y": 1.0297
                         },
                         {
-                            "x": 817.0,
-                            "y": 79.0
+                            "x": 5.4934,
+                            "y": 1.2657
                         },
                         {
-                            "x": 257.0,
-                            "y": 77.0
+                            "x": 2.7726,
+                            "y": 1.2657
                         }
                     ]
                 },
                 {
-                    "content": "are seeing pharmaceutical and other life sciences organizations",
+                    "content": "外籍看護管理辦法",
                     "bounding_box": [
                         {
-                            "x": 258.0,
-                            "y": 83.0
+                            "x": 3.2702,
+                            "y": 1.3514
                         },
                         {
-                            "x": 826.0,
-                            "y": 83.0
+                            "x": 4.9986,
+                            "y": 1.3514
                         },
                         {
-                            "x": 826.0,
-                            "y": 105.0
+                            "x": 4.9986,
+                            "y": 1.5587
                         },
                         {
-                            "x": 258.0,
-                            "y": 105.0
+                            "x": 3.2702,
+                            "y": 1.5587
                         }
                     ]
                 },
                 {
-                    "content": "making major investments in Al and related technologies.\"",
+                    "content": "1、",
                     "bounding_box": [
                         {
-                            "x": 259.0,
-                            "y": 112.0
+                            "x": 1.2712,
+                            "y": 1.6568
                         },
                         {
-                            "x": 785.0,
-                            "y": 111.0
+                            "x": 1.4287,
+                            "y": 1.6568
                         },
                         {
-                            "x": 785.0,
-                            "y": 134.0
+                            "x": 1.4287,
+                            "y": 1.8168
                         },
                         {
-                            "x": 259.0,
-                            "y": 135.0
+                            "x": 1.2712,
+                            "y": 1.8168
                         }
                     ]
                 },
                 {
-                    "content": "TOM LAWRY | National Director for Al, Health and Life Sciences | Microsoft",
+                    "content": "為維護外籍看護工生活及工作上的品質，特定本辦法。",
                     "bounding_box": [
                         {
-                            "x": 258.0,
-                            "y": 150.0
+                            "x": 1.7623,
+                            "y": 1.637
                         },
                         {
-                            "x": 637.0,
-                            "y": 151.0
+                            "x": 6.3077,
+                            "y": 1.637
                         },
                         {
-                            "x": 637.0,
-                            "y": 167.0
+                            "x": 6.3077,
+                            "y": 1.8184
                         },
                         {
-                            "x": 258.0,
-                            "y": 166.0
+                            "x": 1.7623,
+                            "y": 1.8184
                         }
                     ]
                 },
                 {
-                    "content": "As pharmaceutical and other life sciences organizations invest",
+                    "content": "中心提供外籍看護工自入境至離境期間，舉凡在食、衣、住、",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 241.0
+                            "x": 1.7743,
+                            "y": 1.8898
                         },
                         {
-                            "x": 422.0,
-                            "y": 241.0
+                            "x": 6.767,
+                            "y": 1.8898
                         },
                         {
-                            "x": 422.0,
-                            "y": 258.0
+                            "x": 6.767,
+                            "y": 2.0725
                         },
                         {
-                            "x": 75.0,
-                            "y": 257.0
+                            "x": 1.7743,
+                            "y": 2.0725
                         }
                     ]
                 },
                 {
-                    "content": "in and deploy advanced technologies, they are beginning to see",
+                    "content": "行、育、樂、醫療與心理輔導等服務，使外勞生活上無後顧之",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 259.0
+                            "x": 1.7599,
+                            "y": 2.1418
                         },
                         {
-                            "x": 435.0,
-                            "y": 260.0
+                            "x": 6.8107,
+                            "y": 2.1418
                         },
                         {
-                            "x": 435.0,
-                            "y": 277.0
+                            "x": 6.8107,
+                            "y": 2.3253
                         },
                         {
-                            "x": 75.0,
-                            "y": 276.0
+                            "x": 1.7599,
+                            "y": 2.3253
                         }
                     ]
                 },
                 {
-                    "content": "benefits in diverse areas across their organizations. Companies",
+                    "content": "憂。",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 277.0
+                            "x": 1.7652,
+                            "y": 2.4013
                         },
                         {
-                            "x": 427.0,
-                            "y": 278.0
+                            "x": 2.0201,
+                            "y": 2.4013
                         },
                         {
-                            "x": 427.0,
-                            "y": 295.0
+                            "x": 2.0201,
+                            "y": 2.5736
                         },
                         {
-                            "x": 77.0,
-                            "y": 294.0
+                            "x": 1.7652,
+                            "y": 2.5736
                         }
                     ]
                 },
                 {
-                    "content": "are looking to incorporate automation and continuing smart",
+                    "content": "2、",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 296.0
+                            "x": 1.2556,
+                            "y": 1.9096
                         },
                         {
-                            "x": 414.0,
-                            "y": 296.0
+                            "x": 1.4287,
+                            "y": 1.9096
                         },
                         {
-                            "x": 414.0,
-                            "y": 313.0
+                            "x": 1.4287,
+                            "y": 2.0696
                         },
                         {
-                            "x": 75.0,
-                            "y": 313.0
+                            "x": 1.2556,
+                            "y": 2.0696
                         }
                     ]
                 },
                 {
-                    "content": "factory investments to reduce costs in drug discovery, research",
+                    "content": "3、",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 314.0
+                            "x": 1.2582,
+                            "y": 2.6679
                         },
                         {
-                            "x": 428.0,
-                            "y": 314.0
+                            "x": 1.4287,
+                            "y": 2.6679
                         },
                         {
-                            "x": 428.0,
-                            "y": 331.0
+                            "x": 1.4287,
+                            "y": 2.828
                         },
                         {
-                            "x": 77.0,
-                            "y": 331.0
+                            "x": 1.2582,
+                            "y": 2.828
                         }
                     ]
                 },
                 {
-                    "content": "and development, and manufacturing and supply chain",
+                    "content": "有關外籍看護工排班、休假應依照符合勞基法規定保障外籍",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 331.0
+                            "x": 1.7607,
+                            "y": 2.6481
                         },
                         {
-                            "x": 388.0,
-                            "y": 331.0
+                            "x": 6.8144,
+                            "y": 2.6481
                         },
                         {
-                            "x": 388.0,
-                            "y": 349.0
+                            "x": 6.8144,
+                            "y": 2.8295
                         },
                         {
-                            "x": 76.0,
-                            "y": 349.0
+                            "x": 1.7607,
+                            "y": 2.8295
                         }
                     ]
                 },
                 {
-                    "content": "management. Many life sciences organizations are also choosing",
+                    "content": "看護工權益。",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 350.0
+                            "x": 1.7599,
+                            "y": 2.9017
                         },
                         {
-                            "x": 440.0,
-                            "y": 350.0
+                            "x": 2.8117,
+                            "y": 2.9017
                         },
                         {
-                            "x": 440.0,
-                            "y": 367.0
+                            "x": 2.8117,
+                            "y": 3.0823
                         },
                         {
-                            "x": 76.0,
-                            "y": 367.0
+                            "x": 1.7599,
+                            "y": 3.0823
                         }
                     ]
                 },
                 {
-                    "content": "to stay with more virtual approaches in the \"new normal\" -",
+                    "content": "4、",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 368.0
+                            "x": 1.2525,
+                            "y": 3.1741
                         },
                         {
-                            "x": 404.0,
-                            "y": 368.0
+                            "x": 1.4287,
+                            "y": 3.1741
                         },
                         {
-                            "x": 404.0,
-                            "y": 385.0
+                            "x": 1.4287,
+                            "y": 3.3335
                         },
                         {
-                            "x": 76.0,
-                            "y": 385.0
+                            "x": 1.2525,
+                            "y": 3.3335
                         }
                     ]
                 },
                 {
-                    "content": "particularly in clinical trials and sales and marketing areas.",
+                    "content": "每月定期與外籍照服員召開會議，溝通工作、生活照顧事宜。",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 385.0
+                            "x": 1.7623,
+                            "y": 3.1537
                         },
                         {
-                            "x": 396.0,
-                            "y": 385.0
+                            "x": 6.835,
+                            "y": 3.1537
                         },
                         {
-                            "x": 396.0,
-                            "y": 404.0
+                            "x": 6.835,
+                            "y": 3.338
                         },
                         {
-                            "x": 77.0,
-                            "y": 403.0
+                            "x": 1.7623,
+                            "y": 3.338
                         }
                     ]
                 },
                 {
-                    "content": "Enhancing the patient",
+                    "content": "5、",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 422.0
+                            "x": 1.2582,
+                            "y": 3.4288
                         },
                         {
-                            "x": 268.0,
-                            "y": 422.0
+                            "x": 1.4287,
+                            "y": 3.4288
                         },
                         {
-                            "x": 268.0,
-                            "y": 447.0
+                            "x": 1.4287,
+                            "y": 3.5863
                         },
                         {
-                            "x": 77.0,
-                            "y": 446.0
+                            "x": 1.2582,
+                            "y": 3.5863
                         }
                     ]
                 },
                 {
-                    "content": "and provider experience",
+                    "content": "有關食宿規定:",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 447.0
+                            "x": 1.7607,
+                            "y": 3.4072
                         },
                         {
-                            "x": 285.0,
-                            "y": 447.0
+                            "x": 2.9744,
+                            "y": 3.4072
                         },
                         {
-                            "x": 285.0,
-                            "y": 470.0
+                            "x": 2.9744,
+                            "y": 3.5892
                         },
                         {
-                            "x": 76.0,
-                            "y": 470.0
+                            "x": 1.7607,
+                            "y": 3.5892
                         }
                     ]
                 },
                 {
-                    "content": "Clinical trial sponsors are continually seeking to make clinical",
+                    "content": "6、",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 481.0
+                            "x": 1.2574,
+                            "y": 3.679
                         },
                         {
-                            "x": 425.0,
-                            "y": 480.0
+                            "x": 1.4287,
+                            "y": 3.679
                         },
                         {
-                            "x": 425.0,
-                            "y": 499.0
+                            "x": 1.4287,
+                            "y": 3.8391
                         },
                         {
-                            "x": 76.0,
-                            "y": 499.0
+                            "x": 1.2574,
+                            "y": 3.8391
                         }
                     ]
                 },
                 {
-                    "content": "trials faster and to improve the experience for patients and",
+                    "content": "中心提供的食宿照顧如下:",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 499.0
+                            "x": 1.7743,
+                            "y": 3.66
                         },
                         {
-                            "x": 414.0,
-                            "y": 500.0
+                            "x": 3.964,
+                            "y": 3.66
                         },
                         {
-                            "x": 414.0,
-                            "y": 517.0
+                            "x": 3.964,
+                            "y": 3.842
                         },
                         {
-                            "x": 76.0,
-                            "y": 517.0
+                            "x": 1.7743,
+                            "y": 3.842
                         }
                     ]
                 },
                 {
-                    "content": "physicians. The COVID-19 pandemic has accelerated the",
+                    "content": "1.提供符合外籍風俗民情之餐點。",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 517.0
+                            "x": 1.7654,
+                            "y": 3.912
                         },
                         {
-                            "x": 410.0,
-                            "y": 517.0
+                            "x": 4.5571,
+                            "y": 3.912
                         },
                         {
-                            "x": 410.0,
-                            "y": 534.0
+                            "x": 4.5571,
+                            "y": 4.0987
                         },
                         {
-                            "x": 76.0,
-                            "y": 535.0
+                            "x": 1.7654,
+                            "y": 4.0987
                         }
                     ]
                 },
                 {
-                    "content": "adoption of decentralized clinical trials, with an increase in",
+                    "content": "2.提供洗衣機。",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 535.0
+                            "x": 1.5248,
+                            "y": 4.366
                         },
                         {
-                            "x": 411.0,
-                            "y": 535.0
+                            "x": 2.7438,
+                            "y": 4.366
                         },
                         {
-                            "x": 411.0,
-                            "y": 553.0
+                            "x": 2.7438,
+                            "y": 4.5482
                         },
                         {
-                            "x": 75.0,
-                            "y": 553.0
+                            "x": 1.5248,
+                            "y": 4.5482
                         }
                     ]
                 },
                 {
-                    "content": "trial activities conducted remotely and in participants' homes.",
+                    "content": "3.設置梳妝台及曬衣區。",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 554.0
+                            "x": 1.7574,
+                            "y": 4.8304
                         },
                         {
-                            "x": 428.0,
-                            "y": 555.0
+                            "x": 3.7655,
+                            "y": 4.8304
                         },
                         {
-                            "x": 428.0,
-                            "y": 572.0
+                            "x": 3.7655,
+                            "y": 5.0089
                         },
                         {
-                            "x": 77.0,
-                            "y": 572.0
+                            "x": 1.7574,
+                            "y": 5.0089
                         }
                     ]
                 },
                 {
-                    "content": "In a Mckinsey survey1 up to 98 percent of patients reported",
+                    "content": "4.宿舍皆配置衛浴設備、24小時熱水系統，並可使用本機構公",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 572.0
+                            "x": 1.7537,
+                            "y": 5.2763
                         },
                         {
-                            "x": 420.0,
-                            "y": 572.0
+                            "x": 6.9298,
+                            "y": 5.2763
                         },
                         {
-                            "x": 420.0,
-                            "y": 590.0
+                            "x": 6.9298,
+                            "y": 5.4606
                         },
                         {
-                            "x": 76.0,
-                            "y": 590.0
+                            "x": 1.7537,
+                            "y": 5.4606
                         }
                     ]
                 },
                 {
-                    "content": "satisfaction with telemedicine. In the same report, 72 percent of",
+                    "content": "共空間之文康室、會客室、閱覽室、飲用水設備、寢室配置視",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 591.0
+                            "x": 1.7644,
+                            "y": 5.4917
                         },
                         {
-                            "x": 442.0,
-                            "y": 591.0
+                            "x": 6.8167,
+                            "y": 5.4917
                         },
                         {
-                            "x": 442.0,
-                            "y": 608.0
+                            "x": 6.8167,
+                            "y": 5.6739
                         },
                         {
-                            "x": 77.0,
-                            "y": 607.0
+                            "x": 1.7644,
+                            "y": 5.6739
                         }
                     ]
                 },
                 {
-                    "content": "physicians surveyed reported similar or better experiences with",
+                    "content": "聽設備、網際網路。",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 609.0
+                            "x": 1.7576,
+                            "y": 5.7102
                         },
                         {
-                            "x": 438.0,
-                            "y": 609.0
+                            "x": 3.339,
+                            "y": 5.7102
                         },
                         {
-                            "x": 438.0,
-                            "y": 626.0
+                            "x": 3.339,
+                            "y": 5.8901
                         },
                         {
-                            "x": 77.0,
-                            "y": 626.0
+                            "x": 1.7576,
+                            "y": 5.8901
                         }
                     ]
                 },
                 {
-                    "content": "remote engagement compared with in-person visits.",
+                    "content": "工作照顧上提供:",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 628.0
+                            "x": 1.6559,
+                            "y": 5.9411
                         },
                         {
-                            "x": 378.0,
-                            "y": 627.0
+                            "x": 3.0734,
+                            "y": 5.9411
                         },
                         {
-                            "x": 378.0,
-                            "y": 644.0
+                            "x": 3.0734,
+                            "y": 6.1218
                         },
                         {
-                            "x": 76.0,
-                            "y": 644.0
+                            "x": 1.6559,
+                            "y": 6.1218
                         }
                     ]
                 },
                 {
-                    "content": "The shift of trial activities closer to patients has been enabled by",
+                    "content": "1.參與在職教育訓練及消防演練",
                     "bounding_box": [
                         {
-                            "x": 73.0,
-                            "y": 656.0
+                            "x": 1.4969,
+                            "y": 6.1691
                         },
                         {
-                            "x": 443.0,
-                            "y": 657.0
+                            "x": 4.2039,
+                            "y": 6.1691
                         },
                         {
-                            "x": 443.0,
-                            "y": 675.0
+                            "x": 4.2039,
+                            "y": 6.3476
                         },
                         {
-                            "x": 73.0,
-                            "y": 674.0
+                            "x": 1.4969,
+                            "y": 6.3476
                         }
                     ]
                 },
                 {
-                    "content": "a myriad of evolving technologies and services (e.g., electronic",
+                    "content": "2.辦理外籍勞工工作說明及機構規定。",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 676.0
+                            "x": 1.4716,
+                            "y": 6.4109
                         },
                         {
-                            "x": 439.0,
-                            "y": 676.0
+                            "x": 4.6689,
+                            "y": 6.4109
                         },
                         {
-                            "x": 439.0,
-                            "y": 693.0
+                            "x": 4.6689,
+                            "y": 6.5953
                         },
                         {
-                            "x": 75.0,
-                            "y": 693.0
+                            "x": 1.4716,
+                            "y": 6.5953
                         }
                     ]
                 },
                 {
-                    "content": "consent, telehealth and remote patient monitoring). The aim",
+                    "content": "七",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 694.0
+                            "x": 1.2628,
+                            "y": 5.9487
                         },
                         {
-                            "x": 428.0,
-                            "y": 693.0
+                            "x": 1.4285,
+                            "y": 5.9487
                         },
                         {
-                            "x": 428.0,
-                            "y": 710.0
+                            "x": 1.4285,
+                            "y": 6.1066
                         },
                         {
-                            "x": 77.0,
-                            "y": 711.0
+                            "x": 1.2628,
+                            "y": 6.1066
                         }
                     ]
                 },
                 {
-                    "content": "to use technology to improve the patient experience and",
+                    "content": "3.照服員協助各項教學並促使資深人員傳承帶動。",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 713.0
+                            "x": 1.4741,
+                            "y": 6.8725
                         },
                         {
-                            "x": 406.0,
-                            "y": 712.0
+                            "x": 5.6585,
+                            "y": 6.8725
                         },
                         {
-                            "x": 406.0,
-                            "y": 729.0
+                            "x": 5.6585,
+                            "y": 7.0539
                         },
                         {
-                            "x": 76.0,
-                            "y": 729.0
+                            "x": 1.4741,
+                            "y": 7.0539
                         }
                     ]
                 },
                 {
-                    "content": "convenience has also broadened trial access to reach a broader,",
+                    "content": "4.舉辦各種講習。(如衛生急救、性騷懮防治宣導、CPR急救",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 730.0
+                            "x": 1.5225,
+                            "y": 7.3352
                         },
                         {
-                            "x": 441.0,
-                            "y": 730.0
+                            "x": 6.5483,
+                            "y": 7.3352
                         },
                         {
-                            "x": 441.0,
-                            "y": 746.0
+                            "x": 6.5483,
+                            "y": 7.5391
                         },
                         {
-                            "x": 76.0,
-                            "y": 746.0
+                            "x": 1.5225,
+                            "y": 7.5391
                         }
                     ]
                 },
                 {
-                    "content": "more diverse patient population.",
+                    "content": "講座及性病防治等講座)",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 749.0
+                            "x": 1.6926,
+                            "y": 7.7991
                         },
                         {
-                            "x": 265.0,
-                            "y": 749.0
+                            "x": 3.7189,
+                            "y": 7.7991
                         },
                         {
-                            "x": 265.0,
-                            "y": 765.0
+                            "x": 3.7189,
+                            "y": 8.0015
                         },
                         {
-                            "x": 76.0,
-                            "y": 764.0
+                            "x": 1.6926,
+                            "y": 8.0015
                         }
                     ]
                 },
                 {
-                    "content": "\"It's an interesting and exciting time right now,\" said Keren",
+                    "content": "5.防疫宣導與防範措施執行。",
                     "bounding_box": [
                         {
-                            "x": 72.0,
-                            "y": 779.0
+                            "x": 1.5281,
+                            "y": 8.2623
                         },
                         {
-                            "x": 404.0,
-                            "y": 779.0
+                            "x": 3.9313,
+                            "y": 8.2623
                         },
                         {
-                            "x": 404.0,
-                            "y": 797.0
+                            "x": 3.9313,
+                            "y": 8.4413
                         },
                         {
-                            "x": 72.0,
-                            "y": 797.0
+                            "x": 1.5281,
+                            "y": 8.4413
                         }
                     ]
                 },
                 {
-                    "content": "Priyadarshini, Regional Business Lead - Asia, Worldwide",
+                    "content": "6.不定期提供法令宣導",
                     "bounding_box": [
                         {
-                            "x": 75.0,
-                            "y": 797.0
+                            "x": 1.5281,
+                            "y": 8.7127
                         },
                         {
-                            "x": 402.0,
-                            "y": 797.0
+                            "x": 3.4499,
+                            "y": 8.7127
                         },
                         {
-                            "x": 402.0,
-                            "y": 814.0
+                            "x": 3.4499,
+                            "y": 8.8904
                         },
                         {
-                            "x": 75.0,
-                            "y": 814.0
+                            "x": 1.5281,
+                            "y": 8.8904
                         }
                     ]
                 },
                 {
-                    "content": "Health, Microsoft. \"It used to be that physicians were key.",
+                    "content": "八、有關外籍看護工的權益保障及申訴，依本中心員工申訴辦法及",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 815.0
+                            "x": 1.3147,
+                            "y": 8.9393
                         },
                         {
-                            "x": 408.0,
-                            "y": 817.0
+                            "x": 6.8935,
+                            "y": 8.9393
                         },
                         {
-                            "x": 408.0,
-                            "y": 834.0
+                            "x": 6.8935,
+                            "y": 9.1207
                         },
                         {
-                            "x": 76.0,
-                            "y": 832.0
+                            "x": 1.3147,
+                            "y": 9.1207
                         }
                     ]
                 },
                 {
-                    "content": "Now, suddenly, patients are feeling empowered by technology.",
+                    "content": "流程辦理。",
                     "bounding_box": [
                         {
-                            "x": 76.0,
-                            "y": 833.0
+                            "x": 1.5299,
+                            "y": 9.1688
                         },
                         {
-                            "x": 436.0,
-                            "y": 834.0
+                            "x": 2.3838,
+                            "y": 9.1688
                         },
                         {
-                            "x": 436.0,
-                            "y": 851.0
+                            "x": 2.3838,
+                            "y": 9.3487
                         },
                         {
-                            "x": 76.0,
-                            "y": 851.0
+                            "x": 1.5299,
+                            "y": 9.3487
                         }
                     ]
                 },
                 {
-                    "content": "Pharmaceutical companies and other life sciences companies",
+                    "content": "九",
                     "bounding_box": [
                         {
-                            "x": 77.0,
-                            "y": 852.0
+                            "x": 1.3176,
+                            "y": 9.4013
                         },
                         {
-                            "x": 428.0,
-                            "y": 852.0
+                            "x": 1.4893,
+                            "y": 9.4013
                         },
                         {
-                            "x": 428.0,
-                            "y": 869.0
+                            "x": 1.4893,
+                            "y": 9.5676
                         },
                         {
-                            "x": 77.0,
-                            "y": 868.0
+                            "x": 1.3176,
+                            "y": 9.5676
                         }
                     ]
                 },
                 {
-                    "content": "are realizing they have to pay attention to the patient",
+                    "content": "本辦法經主任核定後實施，修正時亦同。",
                     "bounding_box": [
                         {
-                            "x": 73.0,
-                            "y": 870.0
+                            "x": 1.7054,
+                            "y": 9.3961
                         },
                         {
-                            "x": 383.0,
-                            "y": 870.0
+                            "x": 5.0665,
+                            "y": 9.3961
                         },
                         {
-                            "x": 383.0,
-                            "y": 887.0
+                            "x": 5.0665,
+                            "y": 9.5775
                         },
                         {
-                            "x": 73.0,
-                            "y": 887.0
+                            "x": 1.7054,
+                            "y": 9.5775
                         }
                     ]
-                },
-                {
-                    "content": "experience in addition to the physician experience.\"",
-                    "bounding_box": [
-                        {
-                            "x": 76.0,
-                            "y": 888.0
-                        },
-                        {
-                            "x": 373.0,
-                            "y": 888.0
-                        },
-                        {
-                            "x": 373.0,
-                            "y": 905.0
-                        },
-                        {
-                            "x": 76.0,
-                            "y": 906.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Enhanced patient experiences can be delivered in many different",
-                    "bounding_box": [
-                        {
-                            "x": 77.0,
-                            "y": 919.0
-                        },
-                        {
-                            "x": 442.0,
-                            "y": 918.0
-                        },
-                        {
-                            "x": 442.0,
-                            "y": 935.0
-                        },
-                        {
-                            "x": 77.0,
-                            "y": 936.0
-                        }
-                    ]
-                },
-                {
-                    "content": "ways. One example of a life sciences product that leverages the",
-                    "bounding_box": [
-                        {
-                            "x": 76.0,
-                            "y": 936.0
-                        },
-                        {
-                            "x": 433.0,
-                            "y": 936.0
-                        },
-                        {
-                            "x": 433.0,
-                            "y": 954.0
-                        },
-                        {
-                            "x": 76.0,
-                            "y": 954.0
-                        }
-                    ]
-                },
-                {
-                    "content": "intelligent cloud to directly affect the patient experience is the",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 955.0
-                        },
-                        {
-                            "x": 425.0,
-                            "y": 955.0
-                        },
-                        {
-                            "x": 425.0,
-                            "y": 972.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 972.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Tandem\u00ae Diabetes Care insulin pump. The Tandem\u00ae t:slim X2",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 972.0
-                        },
-                        {
-                            "x": 424.0,
-                            "y": 972.0
-                        },
-                        {
-                            "x": 424.0,
-                            "y": 990.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 990.0
-                        }
-                    ]
-                },
-                {
-                    "content": "insulin pump with Basal-IQ technology enables patients with",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 990.0
-                        },
-                        {
-                            "x": 417.0,
-                            "y": 990.0
-                        },
-                        {
-                            "x": 417.0,
-                            "y": 1008.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 1008.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Type 1 diabetes to predict and prevent the low levels of blood",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 1008.0
-                        },
-                        {
-                            "x": 420.0,
-                            "y": 1008.0
-                        },
-                        {
-                            "x": 420.0,
-                            "y": 1025.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 1026.0
-                        }
-                    ]
-                },
-                {
-                    "content": "sugar that cause hypoglycemia.2 The algorithm-driven, software-",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 1027.0
-                        },
-                        {
-                            "x": 440.0,
-                            "y": 1026.0
-                        },
-                        {
-                            "x": 441.0,
-                            "y": 1044.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 1045.0
-                        }
-                    ]
-                },
-                {
-                    "content": "updatable pump improves the patient experience by automating",
-                    "bounding_box": [
-                        {
-                            "x": 76.0,
-                            "y": 1045.0
-                        },
-                        {
-                            "x": 440.0,
-                            "y": 1045.0
-                        },
-                        {
-                            "x": 440.0,
-                            "y": 1062.0
-                        },
-                        {
-                            "x": 76.0,
-                            "y": 1062.0
-                        }
-                    ]
-                },
-                {
-                    "content": "chronic disease management and eliminating the need for",
-                    "bounding_box": [
-                        {
-                            "x": 76.0,
-                            "y": 1062.0
-                        },
-                        {
-                            "x": 403.0,
-                            "y": 1062.0
-                        },
-                        {
-                            "x": 403.0,
-                            "y": 1080.0
-                        },
-                        {
-                            "x": 76.0,
-                            "y": 1080.0
-                        }
-                    ]
-                },
-                {
-                    "content": "constant finger pricks to check glucose levels.",
-                    "bounding_box": [
-                        {
-                            "x": 75.0,
-                            "y": 1081.0
-                        },
-                        {
-                            "x": 332.0,
-                            "y": 1080.0
-                        },
-                        {
-                            "x": 332.0,
-                            "y": 1097.0
-                        },
-                        {
-                            "x": 75.0,
-                            "y": 1098.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Tandem was able to create and deploy this innovation by",
-                    "bounding_box": [
-                        {
-                            "x": 466.0,
-                            "y": 240.0
-                        },
-                        {
-                            "x": 792.0,
-                            "y": 240.0
-                        },
-                        {
-                            "x": 792.0,
-                            "y": 258.0
-                        },
-                        {
-                            "x": 466.0,
-                            "y": 257.0
-                        }
-                    ]
-                },
-                {
-                    "content": "leveraging the Al and machine learning capabilities of the",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 260.0
-                        },
-                        {
-                            "x": 801.0,
-                            "y": 260.0
-                        },
-                        {
-                            "x": 801.0,
-                            "y": 276.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 277.0
-                        }
-                    ]
-                },
-                {
-                    "content": "intelligent cloud. As Al and other technologies continue to",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 277.0
-                        },
-                        {
-                            "x": 808.0,
-                            "y": 277.0
-                        },
-                        {
-                            "x": 808.0,
-                            "y": 295.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 294.0
-                        }
-                    ]
-                },
-                {
-                    "content": "advance, potential use cases will multiply. \"Speed to value is",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 296.0
-                        },
-                        {
-                            "x": 810.0,
-                            "y": 295.0
-                        },
-                        {
-                            "x": 810.0,
-                            "y": 312.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 313.0
-                        }
-                    ]
-                },
-                {
-                    "content": "going to continue to accelerate,\" said Lawry.",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 315.0
-                        },
-                        {
-                            "x": 723.0,
-                            "y": 314.0
-                        },
-                        {
-                            "x": 723.0,
-                            "y": 330.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 332.0
-                        }
-                    ]
-                },
-                {
-                    "content": "In addition to enhancing the patient experience,",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 344.0
-                        },
-                        {
-                            "x": 745.0,
-                            "y": 346.0
-                        },
-                        {
-                            "x": 745.0,
-                            "y": 362.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 361.0
-                        }
-                    ]
-                },
-                {
-                    "content": "pharmaceutical and other life sciences companies can",
-                    "bounding_box": [
-                        {
-                            "x": 469.0,
-                            "y": 363.0
-                        },
-                        {
-                            "x": 779.0,
-                            "y": 363.0
-                        },
-                        {
-                            "x": 779.0,
-                            "y": 380.0
-                        },
-                        {
-                            "x": 469.0,
-                            "y": 379.0
-                        }
-                    ]
-                },
-                {
-                    "content": "leverage advanced technologies to improve relationships with",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 382.0
-                        },
-                        {
-                            "x": 822.0,
-                            "y": 381.0
-                        },
-                        {
-                            "x": 822.0,
-                            "y": 397.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 398.0
-                        }
-                    ]
-                },
-                {
-                    "content": "providers. For example, COVID-19 is driving changes in the",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 399.0
-                        },
-                        {
-                            "x": 814.0,
-                            "y": 399.0
-                        },
-                        {
-                            "x": 814.0,
-                            "y": 415.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 416.0
-                        }
-                    ]
-                },
-                {
-                    "content": "way companies interact with clinicians. Prior to COVID-19,",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 418.0
-                        },
-                        {
-                            "x": 806.0,
-                            "y": 416.0
-                        },
-                        {
-                            "x": 807.0,
-                            "y": 432.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 435.0
-                        }
-                    ]
-                },
-                {
-                    "content": "75 percent of physicians preferred in-person sales visits from",
-                    "bounding_box": [
-                        {
-                            "x": 466.0,
-                            "y": 435.0
-                        },
-                        {
-                            "x": 815.0,
-                            "y": 435.0
-                        },
-                        {
-                            "x": 815.0,
-                            "y": 452.0
-                        },
-                        {
-                            "x": 466.0,
-                            "y": 453.0
-                        }
-                    ]
-                },
-                {
-                    "content": "medtech reps; likewise, 77 percent of physicians preferred in-",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 452.0
-                        },
-                        {
-                            "x": 818.0,
-                            "y": 452.0
-                        },
-                        {
-                            "x": 818.0,
-                            "y": 470.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 470.0
-                        }
-                    ]
-                },
-                {
-                    "content": "person sales visits from pharma reps.3",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 471.0
-                        },
-                        {
-                            "x": 685.0,
-                            "y": 471.0
-                        },
-                        {
-                            "x": 685.0,
-                            "y": 489.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 489.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Since the advent of COVID-19, however, physician",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 502.0
-                        },
-                        {
-                            "x": 771.0,
-                            "y": 503.0
-                        },
-                        {
-                            "x": 771.0,
-                            "y": 520.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 519.0
-                        }
-                    ]
-                },
-                {
-                    "content": "preferences are moving toward virtual visits. Only 53 percent",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 521.0
-                        },
-                        {
-                            "x": 828.0,
-                            "y": 521.0
-                        },
-                        {
-                            "x": 828.0,
-                            "y": 538.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 538.0
-                        }
-                    ]
-                },
-                {
-                    "content": "of physicians now express a preference for in-person visits",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 539.0
-                        },
-                        {
-                            "x": 811.0,
-                            "y": 539.0
-                        },
-                        {
-                            "x": 811.0,
-                            "y": 556.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 556.0
-                        }
-                    ]
-                },
-                {
-                    "content": "from medtech reps and only 40 percent prefer in-person visits",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 557.0
-                        },
-                        {
-                            "x": 835.0,
-                            "y": 557.0
-                        },
-                        {
-                            "x": 835.0,
-                            "y": 574.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 574.0
-                        }
-                    ]
-                },
-                {
-                    "content": "from pharma reps. That puts the onus on pharmaceutical and",
-                    "bounding_box": [
-                        {
-                            "x": 469.0,
-                            "y": 574.0
-                        },
-                        {
-                            "x": 835.0,
-                            "y": 574.0
-                        },
-                        {
-                            "x": 835.0,
-                            "y": 592.0
-                        },
-                        {
-                            "x": 469.0,
-                            "y": 592.0
-                        }
-                    ]
-                },
-                {
-                    "content": "life sciences organizations to deliver valuable and engaging",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 593.0
-                        },
-                        {
-                            "x": 819.0,
-                            "y": 593.0
-                        },
-                        {
-                            "x": 819.0,
-                            "y": 611.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 610.0
-                        }
-                    ]
-                },
-                {
-                    "content": "virtual visits to providers.",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 611.0
-                        },
-                        {
-                            "x": 616.0,
-                            "y": 611.0
-                        },
-                        {
-                            "x": 616.0,
-                            "y": 627.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 627.0
-                        }
-                    ]
-                },
-                {
-                    "content": "One way to do that is to leverage text analytics capabilities to",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 642.0
-                        },
-                        {
-                            "x": 822.0,
-                            "y": 642.0
-                        },
-                        {
-                            "x": 822.0,
-                            "y": 659.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 659.0
-                        }
-                    ]
-                },
-                {
-                    "content": "enhance the provider information stored in the organization's",
-                    "bounding_box": [
-                        {
-                            "x": 469.0,
-                            "y": 660.0
-                        },
-                        {
-                            "x": 820.0,
-                            "y": 660.0
-                        },
-                        {
-                            "x": 820.0,
-                            "y": 676.0
-                        },
-                        {
-                            "x": 469.0,
-                            "y": 677.0
-                        }
-                    ]
-                },
-                {
-                    "content": "customer relationship management (CRM) system. For",
-                    "bounding_box": [
-                        {
-                            "x": 466.0,
-                            "y": 679.0
-                        },
-                        {
-                            "x": 789.0,
-                            "y": 677.0
-                        },
-                        {
-                            "x": 789.0,
-                            "y": 694.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 696.0
-                        }
-                    ]
-                },
-                {
-                    "content": "example, a rep setting up a visit with 'Dr. X' could run text",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 697.0
-                        },
-                        {
-                            "x": 801.0,
-                            "y": 695.0
-                        },
-                        {
-                            "x": 801.0,
-                            "y": 712.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 714.0
-                        }
-                    ]
-                },
-                {
-                    "content": "analytics on publicly available resources on the web to identify",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 714.0
-                        },
-                        {
-                            "x": 825.0,
-                            "y": 713.0
-                        },
-                        {
-                            "x": 825.0,
-                            "y": 730.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 731.0
-                        }
-                    ]
-                },
-                {
-                    "content": "on which specific topics Dr. X has been writing about and",
-                    "bounding_box": [
-                        {
-                            "x": 466.0,
-                            "y": 731.0
-                        },
-                        {
-                            "x": 799.0,
-                            "y": 731.0
-                        },
-                        {
-                            "x": 799.0,
-                            "y": 749.0
-                        },
-                        {
-                            "x": 466.0,
-                            "y": 749.0
-                        }
-                    ]
-                },
-                {
-                    "content": "commenting. \"All kinds of publicly available information can",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 749.0
-                        },
-                        {
-                            "x": 813.0,
-                            "y": 749.0
-                        },
-                        {
-                            "x": 813.0,
-                            "y": 767.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 768.0
-                        }
-                    ]
-                },
-                {
-                    "content": "All kinds of publicly",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 827.0
-                        },
-                        {
-                            "x": 644.0,
-                            "y": 827.0
-                        },
-                        {
-                            "x": 644.0,
-                            "y": 851.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 851.0
-                        }
-                    ]
-                },
-                {
-                    "content": "available information",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 856.0
-                        },
-                        {
-                            "x": 661.0,
-                            "y": 855.0
-                        },
-                        {
-                            "x": 661.0,
-                            "y": 877.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 878.0
-                        }
-                    ]
-                },
-                {
-                    "content": "can be mined with text",
-                    "bounding_box": [
-                        {
-                            "x": 469.0,
-                            "y": 886.0
-                        },
-                        {
-                            "x": 674.0,
-                            "y": 885.0
-                        },
-                        {
-                            "x": 674.0,
-                            "y": 906.0
-                        },
-                        {
-                            "x": 469.0,
-                            "y": 906.0
-                        }
-                    ]
-                },
-                {
-                    "content": "analytics technology,",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 914.0
-                        },
-                        {
-                            "x": 660.0,
-                            "y": 915.0
-                        },
-                        {
-                            "x": 660.0,
-                            "y": 938.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 937.0
-                        }
-                    ]
-                },
-                {
-                    "content": "which can be used to arm the",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 942.0
-                        },
-                        {
-                            "x": 729.0,
-                            "y": 942.0
-                        },
-                        {
-                            "x": 729.0,
-                            "y": 964.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 963.0
-                        }
-                    ]
-                },
-                {
-                    "content": "sales rep with relevant information even",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 971.0
-                        },
-                        {
-                            "x": 831.0,
-                            "y": 971.0
-                        },
-                        {
-                            "x": 831.0,
-                            "y": 992.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 993.0
-                        }
-                    ]
-                },
-                {
-                    "content": "before he or she meets the doctor. It's a",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 998.0
-                        },
-                        {
-                            "x": 823.0,
-                            "y": 999.0
-                        },
-                        {
-                            "x": 823.0,
-                            "y": 1021.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 1021.0
-                        }
-                    ]
-                },
-                {
-                    "content": "totally different, digital game now.\"",
-                    "bounding_box": [
-                        {
-                            "x": 469.0,
-                            "y": 1028.0
-                        },
-                        {
-                            "x": 789.0,
-                            "y": 1027.0
-                        },
-                        {
-                            "x": 789.0,
-                            "y": 1051.0
-                        },
-                        {
-                            "x": 469.0,
-                            "y": 1051.0
-                        }
-                    ]
-                },
-                {
-                    "content": "KEREN PRIYADARSHINI | Regional Business Lead - Asia,",
-                    "bounding_box": [
-                        {
-                            "x": 468.0,
-                            "y": 1067.0
-                        },
-                        {
-                            "x": 761.0,
-                            "y": 1068.0
-                        },
-                        {
-                            "x": 761.0,
-                            "y": 1084.0
-                        },
-                        {
-                            "x": 468.0,
-                            "y": 1083.0
-                        }
-                    ]
-                },
-                {
-                    "content": "Worldwide Health | Microsoft",
-                    "bounding_box": [
-                        {
-                            "x": 467.0,
-                            "y": 1088.0
-                        },
-                        {
-                            "x": 615.0,
-                            "y": 1088.0
-                        },
-                        {
-                            "x": 615.0,
-                            "y": 1104.0
-                        },
-                        {
-                            "x": 467.0,
-                            "y": 1104.0
-                        }
-                    ]
-                },
-                {
-                    "content": "EMBRACING DIGITAL TRANSFORMATION IN LIFE SCIENCES ORGANIZATIONS",
-                    "bounding_box": [
-                        {
-                            "x": 77.0,
-                            "y": 1140.0
-                        },
-                        {
-                            "x": 451.0,
-                            "y": 1140.0
-                        },
-                        {
-                            "x": 451.0,
-                            "y": 1153.0
-                        },
-                        {
-                            "x": 77.0,
-                            "y": 1154.0
-                        }
-                    ]
-                },
-                {
-                    "content": "2",
-                    "bounding_box": [
-                        {
-                            "x": 811.0,
-                            "y": 1138.0
-                        },
-                        {
-                            "x": 823.0,
-                            "y": 1139.0
-                        },
-                        {
-                            "x": 822.0,
-                            "y": 1154.0
-                        },
-                        {
-                            "x": 810.0,
-                            "y": 1153.0
-                        }
-                    ]
-                }
-            ],
-            "words": [
-                {
-                    "content": "While",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "healthcare",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "is",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "still",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "early",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "stages",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "its",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Al",
-                    "confidence": 0.866
-                },
-                {
-                    "content": "journey,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "we",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "seeing",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "pharmaceutical",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "other",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "organizations",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "making",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "major",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "investments",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Al",
-                    "confidence": 0.677
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "related",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "technologies.\"",
-                    "confidence": 0.955
-                },
-                {
-                    "content": "TOM",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "LAWRY",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "|",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "National",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Director",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "for",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Al,",
-                    "confidence": 0.884
-                },
-                {
-                    "content": "Health",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Life",
-                    "confidence": 0.985
-                },
-                {
-                    "content": "Sciences",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "|",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "Microsoft",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "As",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "pharmaceutical",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "other",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "organizations",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "invest",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "deploy",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "advanced",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "technologies,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "they",
-                    "confidence": 0.989
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "beginning",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "see",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "benefits",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "diverse",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "areas",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "across",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "their",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "organizations.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "Companies",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "looking",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "incorporate",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "automation",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "continuing",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "smart",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "factory",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "investments",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "reduce",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "costs",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "drug",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "discovery,",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "research",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "development,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "manufacturing",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "supply",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "chain",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "management.",
-                    "confidence": 0.982
-                },
-                {
-                    "content": "Many",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "organizations",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "also",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "choosing",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "stay",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "more",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "virtual",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "approaches",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "\"new",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "normal\"",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "-",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "particularly",
-                    "confidence": 0.989
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "clinical",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "trials",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "sales",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "marketing",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "areas.",
-                    "confidence": 0.979
-                },
-                {
-                    "content": "Enhancing",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "provider",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Clinical",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "trial",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "sponsors",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "continually",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "seeking",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "make",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "clinical",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "trials",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "faster",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "improve",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "for",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "patients",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "physicians.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "The",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "COVID-19",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "pandemic",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "has",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "accelerated",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "adoption",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "decentralized",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "clinical",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "trials,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "an",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "increase",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "trial",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "activities",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "conducted",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "remotely",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "participants'",
-                    "confidence": 0.963
-                },
-                {
-                    "content": "homes.",
-                    "confidence": 0.96
-                },
-                {
-                    "content": "In",
-                    "confidence": 0.94
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "Mckinsey",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "survey1",
-                    "confidence": 0.843
-                },
-                {
-                    "content": "up",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "98",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "patients",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "reported",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "satisfaction",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "telemedicine.",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "In",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "same",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "report,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "72",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "physicians",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "surveyed",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "reported",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "similar",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "or",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "better",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experiences",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "remote",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "engagement",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "compared",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "in-person",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "visits.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "The",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "shift",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "trial",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "activities",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "closer",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "patients",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "has",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "been",
-                    "confidence": 0.99
-                },
-                {
-                    "content": "enabled",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "by",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "myriad",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "evolving",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "technologies",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "services",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "(e.g.,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "electronic",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "consent,",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "telehealth",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "remote",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "monitoring).",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "The",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "aim",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "use",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "technology",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "improve",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "convenience",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "has",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "also",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "broadened",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "trial",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "access",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "reach",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "broader,",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "more",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "diverse",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "population.",
-                    "confidence": 0.98
-                },
-                {
-                    "content": "\"It's",
-                    "confidence": 0.766
-                },
-                {
-                    "content": "an",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "interesting",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "exciting",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "time",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "right",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "now,\"",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "said",
-                    "confidence": 0.985
-                },
-                {
-                    "content": "Keren",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Priyadarshini,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "Regional",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Business",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "Lead",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "-",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Asia,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Worldwide",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "Health,",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "Microsoft.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "\"It",
-                    "confidence": 0.882
-                },
-                {
-                    "content": "used",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "be",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "that",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "physicians",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "were",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "key.",
-                    "confidence": 0.971
-                },
-                {
-                    "content": "Now,",
-                    "confidence": 0.979
-                },
-                {
-                    "content": "suddenly,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "patients",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "feeling",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "empowered",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "by",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "technology.",
-                    "confidence": 0.99
-                },
-                {
-                    "content": "Pharmaceutical",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "companies",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "other",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "companies",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "realizing",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "they",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "have",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "pay",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "attention",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "addition",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "physician",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "experience.\"",
-                    "confidence": 0.97
-                },
-                {
-                    "content": "Enhanced",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "experiences",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "can",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "be",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "delivered",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "many",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "different",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "ways.",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "One",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "example",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.989
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "product",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "that",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "leverages",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "intelligent",
-                    "confidence": 0.981
-                },
-                {
-                    "content": "cloud",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "directly",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "affect",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "is",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Tandem\u00ae",
-                    "confidence": 0.872
-                },
-                {
-                    "content": "Diabetes",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "Care",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "insulin",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "pump.",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "The",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Tandem\u00ae",
-                    "confidence": 0.619
-                },
-                {
-                    "content": "t:slim",
-                    "confidence": 0.971
-                },
-                {
-                    "content": "X2",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "insulin",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "pump",
-                    "confidence": 0.986
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.99
-                },
-                {
-                    "content": "Basal-IQ",
-                    "confidence": 0.937
-                },
-                {
-                    "content": "technology",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "enables",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "patients",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.979
-                },
-                {
-                    "content": "Type",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "1",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "diabetes",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "predict",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "prevent",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "low",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "levels",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "blood",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "sugar",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "that",
-                    "confidence": 0.989
-                },
-                {
-                    "content": "cause",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "hypoglycemia.2",
-                    "confidence": 0.907
-                },
-                {
-                    "content": "The",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "algorithm-driven,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "software-",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "updatable",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "pump",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "improves",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "by",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "automating",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "chronic",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "disease",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "management",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "eliminating",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "need",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "for",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "constant",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "finger",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "pricks",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "check",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "glucose",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "levels.",
-                    "confidence": 0.961
-                },
-                {
-                    "content": "Tandem",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "was",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "able",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "create",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "deploy",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "this",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "innovation",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "by",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "leveraging",
-                    "confidence": 0.98
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Al",
-                    "confidence": 0.902
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "machine",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "learning",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "capabilities",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "intelligent",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "cloud.",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "As",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "Al",
-                    "confidence": 0.811
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "other",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "technologies",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "continue",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "advance,",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "potential",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "use",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "cases",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "will",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "multiply.",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "\"Speed",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "value",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "is",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "going",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "continue",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "accelerate,\"",
-                    "confidence": 0.98
-                },
-                {
-                    "content": "said",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "Lawry.",
-                    "confidence": 0.957
-                },
-                {
-                    "content": "In",
-                    "confidence": 0.934
-                },
-                {
-                    "content": "addition",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "enhancing",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "patient",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "experience,",
-                    "confidence": 0.957
-                },
-                {
-                    "content": "pharmaceutical",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "other",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "companies",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "can",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "leverage",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "advanced",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "technologies",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "improve",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "relationships",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "providers.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "For",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "example,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "COVID-19",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "is",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "driving",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "changes",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "way",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "companies",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "interact",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "clinicians.",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "Prior",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "COVID-19,",
-                    "confidence": 0.97
-                },
-                {
-                    "content": "75",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "physicians",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "preferred",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "in-person",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "sales",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "visits",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "from",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "medtech",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "reps;",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "likewise,",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "77",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "physicians",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "preferred",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "in-",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "person",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "sales",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "visits",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "from",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "pharma",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "reps.3",
-                    "confidence": 0.771
-                },
-                {
-                    "content": "Since",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "advent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "COVID-19,",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "however,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "physician",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "preferences",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "are",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "moving",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "toward",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "virtual",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "visits.",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "Only",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "53",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "physicians",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "now",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "express",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "preference",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "for",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "in-person",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "visits",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "from",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "medtech",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "reps",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "only",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "40",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "percent",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "prefer",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "in-person",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "visits",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "from",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "pharma",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "reps.",
-                    "confidence": 0.766
-                },
-                {
-                    "content": "That",
-                    "confidence": 0.984
-                },
-                {
-                    "content": "puts",
-                    "confidence": 0.982
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "onus",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "on",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "pharmaceutical",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "life",
-                    "confidence": 0.986
-                },
-                {
-                    "content": "sciences",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "organizations",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "deliver",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "valuable",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "engaging",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "virtual",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "visits",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "providers.",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "One",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "way",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "do",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "that",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "is",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "leverage",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "text",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "analytics",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "capabilities",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "enhance",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "provider",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "information",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "stored",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "in",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "organization's",
-                    "confidence": 0.98
-                },
-                {
-                    "content": "customer",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "relationship",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "management",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "(CRM)",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "system.",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "For",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "example,",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "rep",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "setting",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "up",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "visit",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "'Dr.",
-                    "confidence": 0.878
-                },
-                {
-                    "content": "X'",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "could",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "run",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "text",
-                    "confidence": 0.99
-                },
-                {
-                    "content": "analytics",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "on",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "publicly",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "available",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "resources",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "on",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "web",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "identify",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "on",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "which",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "specific",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "topics",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "Dr.",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "X",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "has",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "been",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "writing",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "about",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "and",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "commenting.",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "\"All",
-                    "confidence": 0.966
-                },
-                {
-                    "content": "kinds",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "publicly",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "available",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "information",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "can",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "All",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "kinds",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "of",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "publicly",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "available",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "information",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "can",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "be",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "mined",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.986
-                },
-                {
-                    "content": "text",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "analytics",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "technology,",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "which",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "can",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "be",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "used",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "to",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "arm",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "sales",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "rep",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "with",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "relevant",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "information",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "even",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "before",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "he",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "or",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "she",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "meets",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "the",
-                    "confidence": 0.998
-                },
-                {
-                    "content": "doctor.",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "It's",
-                    "confidence": 0.932
-                },
-                {
-                    "content": "a",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "totally",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "different,",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "digital",
-                    "confidence": 0.996
-                },
-                {
-                    "content": "game",
-                    "confidence": 0.987
-                },
-                {
-                    "content": "now.\"",
-                    "confidence": 0.942
-                },
-                {
-                    "content": "KEREN",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "PRIYADARSHINI",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "|",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "Regional",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Business",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Lead",
-                    "confidence": 0.989
-                },
-                {
-                    "content": "-",
-                    "confidence": 0.994
-                },
-                {
-                    "content": "Asia,",
-                    "confidence": 0.954
-                },
-                {
-                    "content": "Worldwide",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "Health",
-                    "confidence": 0.995
-                },
-                {
-                    "content": "|",
-                    "confidence": 0.967
-                },
-                {
-                    "content": "Microsoft",
-                    "confidence": 0.993
-                },
-                {
-                    "content": "EMBRACING",
-                    "confidence": 0.992
-                },
-                {
-                    "content": "DIGITAL",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "TRANSFORMATION",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "IN",
-                    "confidence": 0.997
-                },
-                {
-                    "content": "LIFE",
-                    "confidence": 0.988
-                },
-                {
-                    "content": "SCIENCES",
-                    "confidence": 0.965
-                },
-                {
-                    "content": "ORGANIZATIONS",
-                    "confidence": 0.991
-                },
-                {
-                    "content": "2",
-                    "confidence": 0.994
                 }
             ]
         }

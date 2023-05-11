@@ -4,8 +4,8 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
 # use your `key` and `endpoint` environment variables
-key = os.environ.get('FR_KEY')
-endpoint = os.environ.get('FR_ENDPOINT')
+endpoint = "https://bebe.cognitiveservices.azure.com/"
+key = "d7f41d8401d74f87bd368ed2db20333c"
 
 # formatting function
 def format_polygon(polygon):
@@ -16,7 +16,7 @@ def format_polygon(polygon):
 
 def analyze_read():
     # sample form document
-    formUrl = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/rest-api/read.png"
+    formUrl = "https://bebe.blob.core.windows.net/bebe/中越版照顧服務員工作職責.docx.pdf"
 
     document_analysis_client = DocumentAnalysisClient(
         endpoint=endpoint, credential=AzureKeyCredential(key)
@@ -29,7 +29,6 @@ def analyze_read():
 
     # Convert the result to a dictionary
     output = {
-        "content": result.content,
         "styles": [
             {"is_handwritten": style.is_handwritten}
             for style in result.styles
@@ -49,18 +48,15 @@ def analyze_read():
                     }
                     for line in page.lines
                 ],
-                "words": [
-                    {"content": word.content, "confidence": word.confidence}
-                    for word in page.words
-                ],
+                
             }
             for page in result.pages
         ],
     }
 
     # Write the dictionary to a JSON file
-    with open("output.json", "w") as f:
-        json.dump(output, f, indent=4)
+    with open("中越版照顧服務員工作職責.json", "w", encoding = "utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     analyze_read()

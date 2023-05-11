@@ -5,8 +5,8 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
-endpoint = "https://bebepractice.cognitiveservices.azure.com/"
-key = "a494bec990c846ab9d4cc7d9df89a6eb"
+endpoint = "https://bebe.cognitiveservices.azure.com/"
+key = "d7f41d8401d74f87bd368ed2db20333c"
 
 def format_bounding_region(bounding_regions):
     if not bounding_regions:
@@ -21,7 +21,7 @@ def format_polygon(polygon):
 
 def analyze_general_documents():
     # sample document
-    docUrl = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/sample-layout.pdf"
+    docUrl = "https://bebe.blob.core.windows.net/bebe/外籍看護工管理辦法.docx.pdf"
 
     # create your `DocumentAnalysisClient` instance and `AzureKeyCredential` variable
     document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
@@ -69,12 +69,12 @@ def analyze_general_documents():
                 )
             )
 
-        for word in page.words:
-            print(
-                "...Word '{}' has a confidence of {}".format(
-                    word.content, word.confidence
-                )
-            )
+        #for word in page.words:
+         #   print(
+        #        "...Word '{}' has a confidence of {}".format(
+        #            word.content, word.confidence
+         #       )
+          #  )
 
         for selection_mark in page.selection_marks:
             print(

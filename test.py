@@ -1,35 +1,111 @@
-#隨便抓網路上的圖片來讀取
-import json
+# import libraries
 import os
+import json
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
-# use your `key` and `endpoint` environment variables
-key = os.environ.get('FR_KEY')
-endpoint = os.environ.get('FR_ENDPOINT')
+# set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
+endpoint = "https://bebe.cognitiveservices.azure.com/"
+key = "d7f41d8401d74f87bd368ed2db20333c"
 
-# formatting function
+
+def format_bounding_region(bounding_regions):
+    if not bounding_regions:
+        return "N/A"
+    return ", ".join("Page #{}: {}".format(region.page_number, format_polygon(region.polygon)) for region in bounding_regions)
+
 def format_polygon(polygon):
     if not polygon:
         return "N/A"
     return ", ".join(["[{}, {}]".format(p.x, p.y) for p in polygon])
 
 
-def analyze_read():
-    # sample form document
-    formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E6%AA%94%E6%A1%88/syllabus_life_2023a.pdf?raw=true"
-    #(Op3)formUrl = "https://github.com/ssutsen/azure-practice/blob/main/%E6%AA%94%E6%A1%88/Instruction00_Onlinecourse.pdf?raw=true"
-    #formUrl = "https://obs.line-scdn.net/0hxAsQFKp3J25OKDFTtNRYOXd-JAF9RDRtKh52bQ1GeVliHDBvdB47WG0tcQoxS2AwIBtsAWpteAtrHmBseh0/w644"
-    document_analysis_client = DocumentAnalysisClient(
-        endpoint=endpoint, credential=AzureKeyCredential(key)
-    )
+def analyze_general_documents():
+    # sample document
+    docUrl = "https://bebe.blob.core.windows.net/bebe/外籍看護工管理辦法.docx.pdf"
+
+    # create your `DocumentAnalysisClient` instance and `AzureKeyCredential` variable
+    document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
     poller = document_analysis_client.begin_analyze_document_from_url(
-        "prebuilt-read", formUrl
-    )
+            "prebuilt-document", docUrl)
     result = poller.result()
 
-    # Convert the result to a dictionary
+    for style in result.styles:
+        if style.is_handwritten:
+            print("Document contains handwritten content: ")
+            print(",".join([result.content[span.offset:span.offset + span.length] for span in style.spans]))
+
+    print("----Key-value pairs found in document----")
+    for kv_pair in result.key_value_pairs:
+        if kv_pair.key:
+            print(
+                    "Key '{}' found within '{}' bounding regions".format(
+                        kv_pair.key.content,
+                        format_bounding_region(kv_pair.key.bounding_regions),
+                    )
+                )
+        if kv_pair.value:
+            print(
+                    "Value '{}' found within '{}' bounding regions\n".format(
+                        kv_pair.value.content,
+                        format_bounding_region(kv_pair.value.bounding_regions),
+                    )
+                )
+    output = {
+        "page":
+        "content": result.content,
+        
+    }
+    for page in result.pages:
+        print("----Analyzing document from page #{}----".format(page.page_number))
+        print(
+            "Page has width: {} and height: {}, measured with unit: {}".format(
+                page.width, page.height, page.unit
+            )
+        )
+
+        for line_idx, line in enumerate(page.lines):
+            print(
+                "...Line # {} has text content '{}' within bounding box '{}'".format(
+                    line_idx,
+                    line.content,
+                    format_polygon(line.polygon),
+                )
+            )
+
+
+
+    for table_idx, table in enumerate(result.tables):
+        print(
+            "Table # {} has {} rows and {} columns".format(
+                table_idx, table.row_count, table.column_count
+            )
+        )
+        for region in table.bounding_regions:
+            print(
+                "Table # {} location on page: {} is {}".format(
+                    table_idx,
+                    region.page_number,
+                    format_polygon(region.polygon),
+                )
+            )
+        for cell in table.cells:
+            print(
+                "...Cell[{}][{}] has content '{}'".format(
+                    cell.row_index,
+                    cell.column_index,
+                    cell.content,
+                )
+            )
+            for region in cell.bounding_regions:
+                print(
+                    "...content on page {} is within bounding box '{}'\n".format(
+                        region.page_number,
+                        format_polygon(region.polygon),
+                    )
+                )
+    print("----------------------------------------")
     output = {
         "content": result.content,
         "styles": [
@@ -39,30 +115,21 @@ def analyze_read():
         "pages": [
             {
                 "page_number": page.page_number,
-                "width": page.width,
-                "height": page.height,
-                "unit": page.unit,
                 "lines": [
                     {
-                        "content": line.content,
-                        "bounding_box": [
-                            {"x": p.x, "y": p.y} for p in line.polygon
-                        ],
+
                     }
                     for line in page.lines
                 ],
-                "words": [
-                    {"content": word.content, "confidence": word.confidence}
-                    for word in page.words
-                ],
+                
             }
             for page in result.pages
         ],
     }
 
     # Write the dictionary to a JSON file
-    with open("output4.json", "w") as f:
+    with open("output.json", "w") as f:
         json.dump(output, f, indent=4)
 
 if __name__ == "__main__":
-    analyze_read()
+    analyze_general_documents()

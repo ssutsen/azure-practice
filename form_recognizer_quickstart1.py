@@ -5,8 +5,8 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
-key = os.environ.get('FR_KEY')
-endpoint = os.environ.get('FR_ENDPOINT')
+endpoint = "https://bebe.cognitiveservices.azure.com/"
+key = "d7f41d8401d74f87bd368ed2db20333c"
 
 def format_polygon(polygon):
     if not polygon:
@@ -14,8 +14,13 @@ def format_polygon(polygon):
     return ", ".join(["[{}, {}]".format(p.x, p.y) for p in polygon])
 
 def analyze_layout():
+<<<<<<< Updated upstream
     # sample form document
     formUrl = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-REST-api-samples/master/curl/form-recognizer/sample-layout.pdf"
+=======
+   
+    formUrl = "https://bebe.blob.core.windows.net/bebe/考核表-護理人員.doc.pdf"
+>>>>>>> Stashed changes
 
     document_analysis_client = DocumentAnalysisClient(
         endpoint=endpoint, credential=AzureKeyCredential(key)
