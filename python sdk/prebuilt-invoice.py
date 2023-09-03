@@ -1,4 +1,4 @@
-#發票模型
+# 發票模型
 # import libraries
 import json
 import os
