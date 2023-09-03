@@ -10,13 +10,12 @@
 <h3>Continuous update</h3>
 
 <ul>
-  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/form_recognizer_quickstart.py">General document model</a></li>
+  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/python%20sdk/general_document.py">General document model</a></li>
 
-  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/form_recognizer_quickstart2.py">Read model</a></li>
+  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/python%20sdk/read.py">Read model</a></li>
 
-  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/practice-j.py">turn into json</a></li>
-<li><a href="https://github.com/ssutsen/azure-practice/blob/main/output.json">json outcome</a></li>
-<li><a href="https://github.com/ssutsen/azure-practice/blob/main/form_recognizer_quickstart3.py">Prebuilt model output</a></li>
+  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/output%20data/output.json">json outcome</a></li>
+  <li><a href="https://github.com/ssutsen/azure-practice/blob/main/output%20data/%E5%9B%9B%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%89%8B%E5%86%8A106.4.10(5).json">Prebuilt model output</a></li>
 </ul>
 
 <hr />
